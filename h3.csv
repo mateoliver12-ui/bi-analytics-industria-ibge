@@ -1,0 +1,742 @@
+periodo,local,grupo,segmento,indicador,versao,valor_csv,arquivo,valor_sql,aprovado
+2024-01-01,Brasil,Geral,Indústria geral,indice_sa,2026-09,101.76157,indices_set2026.txt,101.76157,True
+2024-02-01,Brasil,Geral,Indústria geral,indice_sa,2026-09,101.72565,indices_set2026.txt,101.72565,True
+2024-03-01,Brasil,Geral,Indústria geral,indice_sa,2026-09,102.0356,indices_set2026.txt,102.0356,True
+2024-04-01,Brasil,Geral,Indústria geral,indice_sa,2026-09,101.69663,indices_set2026.txt,101.69663,True
+2024-05-01,Brasil,Geral,Indústria geral,indice_sa,2026-09,100.19474,indices_set2026.txt,100.19474,True
+2024-06-01,Brasil,Geral,Indústria geral,indice_sa,2026-09,105.19694,indices_set2026.txt,105.19694,True
+2024-07-01,Brasil,Geral,Indústria geral,indice_sa,2026-09,103.55795,indices_set2026.txt,103.55795,True
+2024-08-01,Brasil,Geral,Indústria geral,indice_sa,2026-09,103.33374,indices_set2026.txt,103.33374,True
+2024-09-01,Brasil,Geral,Indústria geral,indice_sa,2026-09,104.47254,indices_set2026.txt,104.47254,True
+2024-10-01,Brasil,Geral,Indústria geral,indice_sa,2026-09,104.49917,indices_set2026.txt,104.49917,True
+2024-11-01,Brasil,Geral,Indústria geral,indice_sa,2026-09,103.93,indices_set2026.txt,103.93,True
+2024-12-01,Brasil,Geral,Indústria geral,indice_sa,2026-09,103.77896,indices_set2026.txt,103.77896,True
+2025-01-01,Brasil,Geral,Indústria geral,indice_sa,2026-09,103.6171,indices_set2026.txt,103.6171,True
+2025-02-01,Brasil,Geral,Indústria geral,indice_sa,2026-09,103.13678,indices_set2026.txt,103.13678,True
+2025-03-01,Brasil,Geral,Indústria geral,indice_sa,2026-09,104.71297,indices_set2026.txt,104.71297,True
+2025-04-01,Brasil,Geral,Indústria geral,indice_sa,2026-09,103.99647,indices_set2026.txt,103.99647,True
+2025-05-01,Brasil,Geral,Indústria geral,indice_sa,2026-09,103.11873,indices_set2026.txt,103.11873,True
+2025-06-01,Brasil,Geral,Indústria geral,indice_sa,2026-09,104.0453,indices_set2026.txt,104.0453,True
+2025-07-01,Brasil,Geral,Indústria geral,indice_sa,2026-09,103.6896,indices_set2026.txt,103.6896,True
+2025-08-01,Brasil,Geral,Indústria geral,indice_sa,2026-09,104.58737,indices_set2026.txt,104.58737,True
+2025-09-01,Brasil,Geral,Indústria geral,indice_sa,2026-09,104.53092,indices_set2026.txt,104.53092,True
+2025-10-01,Brasil,Geral,Indústria geral,indice_sa,2026-09,104.504,indices_set2026.txt,104.504,True
+2025-11-01,Brasil,Geral,Indústria geral,indice_sa,2026-09,104.29869,indices_set2026.txt,104.29869,True
+2025-12-01,Brasil,Geral,Indústria geral,indice_sa,2026-09,102.17973,indices_set2026.txt,102.17973,True
+2026-01-01,Brasil,Geral,Indústria geral,indice_sa,2026-09,104.29802,indices_set2026.txt,104.29802,True
+2026-02-01,Brasil,Geral,Indústria geral,indice_sa,2026-09,105.26943,indices_set2026.txt,105.26943,True
+2026-03-01,Brasil,Geral,Indústria geral,indice_sa,2026-09,105.36538,indices_set2026.txt,105.36538,True
+2026-04-01,Brasil,Geral,Indústria geral,indice_sa,2026-09,106.50051,indices_set2026.txt,106.50051,True
+2026-05-01,Brasil,Geral,Indústria geral,indice_sa,2026-09,105.39904,indices_set2026.txt,105.39904,True
+2026-06-01,Brasil,Geral,Indústria geral,indice_sa,2026-09,103.69968,indices_set2026.txt,103.69968,True
+2026-07-01,Brasil,Geral,Indústria geral,indice_sa,2026-09,103.66373,indices_set2026.txt,103.66373,True
+2026-08-01,Brasil,Geral,Indústria geral,indice_sa,2026-09,102.93251,indices_set2026.txt,102.93251,True
+2026-09-01,Brasil,Geral,Indústria geral,indice_sa,2026-09,102.13833,indices_set2026.txt,102.13833,True
+2026-01-01,Amazonas,Geral,Indústria geral,indice_sa,2026-09,102.21002,indices_set2026.txt,102.21002,True
+2026-02-01,Amazonas,Geral,Indústria geral,indice_sa,2026-09,103.88124,indices_set2026.txt,103.88124,True
+2026-03-01,Amazonas,Geral,Indústria geral,indice_sa,2026-09,106.80764,indices_set2026.txt,106.80764,True
+2026-04-01,Amazonas,Geral,Indústria geral,indice_sa,2026-09,105.11932,indices_set2026.txt,105.11932,True
+2026-05-01,Amazonas,Geral,Indústria geral,indice_sa,2026-09,107.15388,indices_set2026.txt,107.15388,True
+2026-06-01,Amazonas,Geral,Indústria geral,indice_sa,2026-09,93.94378,indices_set2026.txt,93.94378,True
+2026-07-01,Amazonas,Geral,Indústria geral,indice_sa,2026-09,107.48903,indices_set2026.txt,107.48903,True
+2026-08-01,Amazonas,Geral,Indústria geral,indice_sa,2026-09,101.62238,indices_set2026.txt,101.62238,True
+2026-09-01,Amazonas,Geral,Indústria geral,indice_sa,2026-09,106.44582,indices_set2026.txt,106.44582,True
+2026-01-01,Pará,Geral,Indústria geral,indice_sa,2026-09,109.29202,indices_set2026.txt,109.29202,True
+2026-02-01,Pará,Geral,Indústria geral,indice_sa,2026-09,111.31126,indices_set2026.txt,111.31126,True
+2026-03-01,Pará,Geral,Indústria geral,indice_sa,2026-09,117.38496,indices_set2026.txt,117.38496,True
+2026-04-01,Pará,Geral,Indústria geral,indice_sa,2026-09,110.00059,indices_set2026.txt,110.00059,True
+2026-05-01,Pará,Geral,Indústria geral,indice_sa,2026-09,108.83605,indices_set2026.txt,108.83605,True
+2026-06-01,Pará,Geral,Indústria geral,indice_sa,2026-09,106.41179,indices_set2026.txt,106.41179,True
+2026-07-01,Pará,Geral,Indústria geral,indice_sa,2026-09,101.96985,indices_set2026.txt,101.96985,True
+2026-08-01,Pará,Geral,Indústria geral,indice_sa,2026-09,97.84809,indices_set2026.txt,97.84809,True
+2026-09-01,Pará,Geral,Indústria geral,indice_sa,2026-09,100.43981,indices_set2026.txt,100.43981,True
+2026-01-01,Região Nordeste,Geral,Indústria geral,indice_sa,2026-09,97.2059,indices_set2026.txt,97.2059,True
+2026-02-01,Região Nordeste,Geral,Indústria geral,indice_sa,2026-09,97.84123,indices_set2026.txt,97.84123,True
+2026-03-01,Região Nordeste,Geral,Indústria geral,indice_sa,2026-09,99.7156,indices_set2026.txt,99.7156,True
+2026-04-01,Região Nordeste,Geral,Indústria geral,indice_sa,2026-09,101.20171,indices_set2026.txt,101.20171,True
+2026-05-01,Região Nordeste,Geral,Indústria geral,indice_sa,2026-09,99.22137,indices_set2026.txt,99.22137,True
+2026-06-01,Região Nordeste,Geral,Indústria geral,indice_sa,2026-09,98.8021,indices_set2026.txt,98.8021,True
+2026-07-01,Região Nordeste,Geral,Indústria geral,indice_sa,2026-09,98.36976,indices_set2026.txt,98.36976,True
+2026-08-01,Região Nordeste,Geral,Indústria geral,indice_sa,2026-09,98.06792,indices_set2026.txt,98.06792,True
+2026-09-01,Região Nordeste,Geral,Indústria geral,indice_sa,2026-09,97.21738,indices_set2026.txt,97.21738,True
+2026-01-01,Ceará,Geral,Indústria geral,indice_sa,2026-09,95.6141,indices_set2026.txt,95.6141,True
+2026-02-01,Ceará,Geral,Indústria geral,indice_sa,2026-09,98.259,indices_set2026.txt,98.259,True
+2026-03-01,Ceará,Geral,Indústria geral,indice_sa,2026-09,97.07584,indices_set2026.txt,97.07584,True
+2026-04-01,Ceará,Geral,Indústria geral,indice_sa,2026-09,99.37289,indices_set2026.txt,99.37289,True
+2026-05-01,Ceará,Geral,Indústria geral,indice_sa,2026-09,102.79763,indices_set2026.txt,102.79763,True
+2026-06-01,Ceará,Geral,Indústria geral,indice_sa,2026-09,99.20295,indices_set2026.txt,99.20295,True
+2026-07-01,Ceará,Geral,Indústria geral,indice_sa,2026-09,97.61483,indices_set2026.txt,97.61483,True
+2026-08-01,Ceará,Geral,Indústria geral,indice_sa,2026-09,94.21006,indices_set2026.txt,94.21006,True
+2026-09-01,Ceará,Geral,Indústria geral,indice_sa,2026-09,97.73275,indices_set2026.txt,97.73275,True
+2026-01-01,Pernambuco,Geral,Indústria geral,indice_sa,2026-09,110.01096,indices_set2026.txt,110.01096,True
+2026-02-01,Pernambuco,Geral,Indústria geral,indice_sa,2026-09,110.30082,indices_set2026.txt,110.30082,True
+2026-03-01,Pernambuco,Geral,Indústria geral,indice_sa,2026-09,115.31042,indices_set2026.txt,115.31042,True
+2026-04-01,Pernambuco,Geral,Indústria geral,indice_sa,2026-09,111.88517,indices_set2026.txt,111.88517,True
+2026-05-01,Pernambuco,Geral,Indústria geral,indice_sa,2026-09,115.12595,indices_set2026.txt,115.12595,True
+2026-06-01,Pernambuco,Geral,Indústria geral,indice_sa,2026-09,113.59012,indices_set2026.txt,113.59012,True
+2026-07-01,Pernambuco,Geral,Indústria geral,indice_sa,2026-09,110.80589,indices_set2026.txt,110.80589,True
+2026-08-01,Pernambuco,Geral,Indústria geral,indice_sa,2026-09,108.30611,indices_set2026.txt,108.30611,True
+2026-09-01,Pernambuco,Geral,Indústria geral,indice_sa,2026-09,105.06569,indices_set2026.txt,105.06569,True
+2026-01-01,Bahia,Geral,Indústria geral,indice_sa,2026-09,95.42432,indices_set2026.txt,95.42432,True
+2026-02-01,Bahia,Geral,Indústria geral,indice_sa,2026-09,97.85674,indices_set2026.txt,97.85674,True
+2026-03-01,Bahia,Geral,Indústria geral,indice_sa,2026-09,99.15763,indices_set2026.txt,99.15763,True
+2026-04-01,Bahia,Geral,Indústria geral,indice_sa,2026-09,103.7088,indices_set2026.txt,103.7088,True
+2026-05-01,Bahia,Geral,Indústria geral,indice_sa,2026-09,94.39678,indices_set2026.txt,94.39678,True
+2026-06-01,Bahia,Geral,Indústria geral,indice_sa,2026-09,95.56535,indices_set2026.txt,95.56535,True
+2026-07-01,Bahia,Geral,Indústria geral,indice_sa,2026-09,96.21292,indices_set2026.txt,96.21292,True
+2026-08-01,Bahia,Geral,Indústria geral,indice_sa,2026-09,100.02678,indices_set2026.txt,100.02678,True
+2026-09-01,Bahia,Geral,Indústria geral,indice_sa,2026-09,97.65618,indices_set2026.txt,97.65618,True
+2026-01-01,Minas Gerais,Geral,Indústria geral,indice_sa,2026-09,109.00704,indices_set2026.txt,109.00704,True
+2026-02-01,Minas Gerais,Geral,Indústria geral,indice_sa,2026-09,108.66417,indices_set2026.txt,108.66417,True
+2026-03-01,Minas Gerais,Geral,Indústria geral,indice_sa,2026-09,107.12679,indices_set2026.txt,107.12679,True
+2026-04-01,Minas Gerais,Geral,Indústria geral,indice_sa,2026-09,109.3152,indices_set2026.txt,109.3152,True
+2026-05-01,Minas Gerais,Geral,Indústria geral,indice_sa,2026-09,107.26817,indices_set2026.txt,107.26817,True
+2026-06-01,Minas Gerais,Geral,Indústria geral,indice_sa,2026-09,106.54164,indices_set2026.txt,106.54164,True
+2026-07-01,Minas Gerais,Geral,Indústria geral,indice_sa,2026-09,106.7328,indices_set2026.txt,106.7328,True
+2026-08-01,Minas Gerais,Geral,Indústria geral,indice_sa,2026-09,106.11021,indices_set2026.txt,106.11021,True
+2026-09-01,Minas Gerais,Geral,Indústria geral,indice_sa,2026-09,103.49288,indices_set2026.txt,103.49288,True
+2026-01-01,Espírito Santo,Geral,Indústria geral,indice_sa,2026-09,120.58105,indices_set2026.txt,120.58105,True
+2026-02-01,Espírito Santo,Geral,Indústria geral,indice_sa,2026-09,135.87262,indices_set2026.txt,135.87262,True
+2026-03-01,Espírito Santo,Geral,Indústria geral,indice_sa,2026-09,140.63813,indices_set2026.txt,140.63813,True
+2026-04-01,Espírito Santo,Geral,Indústria geral,indice_sa,2026-09,144.02186,indices_set2026.txt,144.02186,True
+2026-05-01,Espírito Santo,Geral,Indústria geral,indice_sa,2026-09,142.91995,indices_set2026.txt,142.91995,True
+2026-06-01,Espírito Santo,Geral,Indústria geral,indice_sa,2026-09,137.39107,indices_set2026.txt,137.39107,True
+2026-07-01,Espírito Santo,Geral,Indústria geral,indice_sa,2026-09,139.99407,indices_set2026.txt,139.99407,True
+2026-08-01,Espírito Santo,Geral,Indústria geral,indice_sa,2026-09,135.38608,indices_set2026.txt,135.38608,True
+2026-09-01,Espírito Santo,Geral,Indústria geral,indice_sa,2026-09,131.78088,indices_set2026.txt,131.78088,True
+2026-01-01,Rio de Janeiro,Geral,Indústria geral,indice_sa,2026-09,114.00177,indices_set2026.txt,114.00177,True
+2026-02-01,Rio de Janeiro,Geral,Indústria geral,indice_sa,2026-09,114.34447,indices_set2026.txt,114.34447,True
+2026-03-01,Rio de Janeiro,Geral,Indústria geral,indice_sa,2026-09,118.20196,indices_set2026.txt,118.20196,True
+2026-04-01,Rio de Janeiro,Geral,Indústria geral,indice_sa,2026-09,120.16021,indices_set2026.txt,120.16021,True
+2026-05-01,Rio de Janeiro,Geral,Indústria geral,indice_sa,2026-09,119.96054,indices_set2026.txt,119.96054,True
+2026-06-01,Rio de Janeiro,Geral,Indústria geral,indice_sa,2026-09,118.63255,indices_set2026.txt,118.63255,True
+2026-07-01,Rio de Janeiro,Geral,Indústria geral,indice_sa,2026-09,119.23678,indices_set2026.txt,119.23678,True
+2026-08-01,Rio de Janeiro,Geral,Indústria geral,indice_sa,2026-09,120.53847,indices_set2026.txt,120.53847,True
+2026-09-01,Rio de Janeiro,Geral,Indústria geral,indice_sa,2026-09,120.95706,indices_set2026.txt,120.95706,True
+2026-01-01,São Paulo,Geral,Indústria geral,indice_sa,2026-09,99.20206,indices_set2026.txt,99.20206,True
+2026-02-01,São Paulo,Geral,Indústria geral,indice_sa,2026-09,99.86146,indices_set2026.txt,99.86146,True
+2026-03-01,São Paulo,Geral,Indústria geral,indice_sa,2026-09,98.90145,indices_set2026.txt,98.90145,True
+2026-04-01,São Paulo,Geral,Indústria geral,indice_sa,2026-09,100.55584,indices_set2026.txt,100.55584,True
+2026-05-01,São Paulo,Geral,Indústria geral,indice_sa,2026-09,99.16662,indices_set2026.txt,99.16662,True
+2026-06-01,São Paulo,Geral,Indústria geral,indice_sa,2026-09,96.40972,indices_set2026.txt,96.40972,True
+2026-07-01,São Paulo,Geral,Indústria geral,indice_sa,2026-09,96.27963,indices_set2026.txt,96.27963,True
+2026-08-01,São Paulo,Geral,Indústria geral,indice_sa,2026-09,95.83481,indices_set2026.txt,95.83481,True
+2026-09-01,São Paulo,Geral,Indústria geral,indice_sa,2026-09,92.2164,indices_set2026.txt,92.2164,True
+2026-01-01,Paraná,Geral,Indústria geral,indice_sa,2026-09,105.59259,indices_set2026.txt,105.59259,True
+2026-02-01,Paraná,Geral,Indústria geral,indice_sa,2026-09,105.24053,indices_set2026.txt,105.24053,True
+2026-03-01,Paraná,Geral,Indústria geral,indice_sa,2026-09,106.52968,indices_set2026.txt,106.52968,True
+2026-04-01,Paraná,Geral,Indústria geral,indice_sa,2026-09,107.13511,indices_set2026.txt,107.13511,True
+2026-05-01,Paraná,Geral,Indústria geral,indice_sa,2026-09,108.36779,indices_set2026.txt,108.36779,True
+2026-06-01,Paraná,Geral,Indústria geral,indice_sa,2026-09,106.7214,indices_set2026.txt,106.7214,True
+2026-07-01,Paraná,Geral,Indústria geral,indice_sa,2026-09,104.33624,indices_set2026.txt,104.33624,True
+2026-08-01,Paraná,Geral,Indústria geral,indice_sa,2026-09,105.50933,indices_set2026.txt,105.50933,True
+2026-09-01,Paraná,Geral,Indústria geral,indice_sa,2026-09,105.28261,indices_set2026.txt,105.28261,True
+2026-01-01,Santa Catarina,Geral,Indústria geral,indice_sa,2026-09,105.09514,indices_set2026.txt,105.09514,True
+2026-02-01,Santa Catarina,Geral,Indústria geral,indice_sa,2026-09,106.36082,indices_set2026.txt,106.36082,True
+2026-03-01,Santa Catarina,Geral,Indústria geral,indice_sa,2026-09,107.53148,indices_set2026.txt,107.53148,True
+2026-04-01,Santa Catarina,Geral,Indústria geral,indice_sa,2026-09,109.04606,indices_set2026.txt,109.04606,True
+2026-05-01,Santa Catarina,Geral,Indústria geral,indice_sa,2026-09,109.79799,indices_set2026.txt,109.79799,True
+2026-06-01,Santa Catarina,Geral,Indústria geral,indice_sa,2026-09,107.60486,indices_set2026.txt,107.60486,True
+2026-07-01,Santa Catarina,Geral,Indústria geral,indice_sa,2026-09,108.20532,indices_set2026.txt,108.20532,True
+2026-08-01,Santa Catarina,Geral,Indústria geral,indice_sa,2026-09,106.56602,indices_set2026.txt,106.56602,True
+2026-09-01,Santa Catarina,Geral,Indústria geral,indice_sa,2026-09,105.49764,indices_set2026.txt,105.49764,True
+2026-01-01,Rio Grande do Sul,Geral,Indústria geral,indice_sa,2026-09,93.03173,indices_set2026.txt,93.03173,True
+2026-02-01,Rio Grande do Sul,Geral,Indústria geral,indice_sa,2026-09,100.59987,indices_set2026.txt,100.59987,True
+2026-03-01,Rio Grande do Sul,Geral,Indústria geral,indice_sa,2026-09,102.13737,indices_set2026.txt,102.13737,True
+2026-04-01,Rio Grande do Sul,Geral,Indústria geral,indice_sa,2026-09,100.49984,indices_set2026.txt,100.49984,True
+2026-05-01,Rio Grande do Sul,Geral,Indústria geral,indice_sa,2026-09,98.10816,indices_set2026.txt,98.10816,True
+2026-06-01,Rio Grande do Sul,Geral,Indústria geral,indice_sa,2026-09,102.30797,indices_set2026.txt,102.30797,True
+2026-07-01,Rio Grande do Sul,Geral,Indústria geral,indice_sa,2026-09,103.78162,indices_set2026.txt,103.78162,True
+2026-08-01,Rio Grande do Sul,Geral,Indústria geral,indice_sa,2026-09,100.2829,indices_set2026.txt,100.2829,True
+2026-09-01,Rio Grande do Sul,Geral,Indústria geral,indice_sa,2026-09,104.11871,indices_set2026.txt,104.11871,True
+2026-01-01,Mato Grosso,Geral,Indústria geral,indice_sa,2026-09,113.35612,indices_set2026.txt,113.35612,True
+2026-02-01,Mato Grosso,Geral,Indústria geral,indice_sa,2026-09,111.22434,indices_set2026.txt,111.22434,True
+2026-03-01,Mato Grosso,Geral,Indústria geral,indice_sa,2026-09,115.44985,indices_set2026.txt,115.44985,True
+2026-04-01,Mato Grosso,Geral,Indústria geral,indice_sa,2026-09,109.24919,indices_set2026.txt,109.24919,True
+2026-05-01,Mato Grosso,Geral,Indústria geral,indice_sa,2026-09,106.1694,indices_set2026.txt,106.1694,True
+2026-06-01,Mato Grosso,Geral,Indústria geral,indice_sa,2026-09,107.44285,indices_set2026.txt,107.44285,True
+2026-07-01,Mato Grosso,Geral,Indústria geral,indice_sa,2026-09,98.83505,indices_set2026.txt,98.83505,True
+2026-08-01,Mato Grosso,Geral,Indústria geral,indice_sa,2026-09,100.94498,indices_set2026.txt,100.94498,True
+2026-09-01,Mato Grosso,Geral,Indústria geral,indice_sa,2026-09,105.91969,indices_set2026.txt,105.91969,True
+2026-01-01,Goiás,Geral,Indústria geral,indice_sa,2026-09,109.54416,indices_set2026.txt,109.54416,True
+2026-02-01,Goiás,Geral,Indústria geral,indice_sa,2026-09,110.02446,indices_set2026.txt,110.02446,True
+2026-03-01,Goiás,Geral,Indústria geral,indice_sa,2026-09,114.29317,indices_set2026.txt,114.29317,True
+2026-04-01,Goiás,Geral,Indústria geral,indice_sa,2026-09,115.47764,indices_set2026.txt,115.47764,True
+2026-05-01,Goiás,Geral,Indústria geral,indice_sa,2026-09,114.75191,indices_set2026.txt,114.75191,True
+2026-06-01,Goiás,Geral,Indústria geral,indice_sa,2026-09,112.60937,indices_set2026.txt,112.60937,True
+2026-07-01,Goiás,Geral,Indústria geral,indice_sa,2026-09,112.87538,indices_set2026.txt,112.87538,True
+2026-08-01,Goiás,Geral,Indústria geral,indice_sa,2026-09,111.1611,indices_set2026.txt,111.1611,True
+2026-09-01,Goiás,Geral,Indústria geral,indice_sa,2026-09,106.62547,indices_set2026.txt,106.62547,True
+2026-01-01,Brasil,Geral,Indústria geral,indice_sa,2026-08,104.265,indices_ago2026.txt,104.265,True
+2026-02-01,Brasil,Geral,Indústria geral,indice_sa,2026-08,105.24917,indices_ago2026.txt,105.24917,True
+2026-03-01,Brasil,Geral,Indústria geral,indice_sa,2026-08,105.35784,indices_ago2026.txt,105.35784,True
+2026-04-01,Brasil,Geral,Indústria geral,indice_sa,2026-08,106.56871,indices_ago2026.txt,106.56871,True
+2026-05-01,Brasil,Geral,Indústria geral,indice_sa,2026-08,105.47322,indices_ago2026.txt,105.47322,True
+2026-06-01,Brasil,Geral,Indústria geral,indice_sa,2026-08,103.81117,indices_ago2026.txt,103.81117,True
+2026-07-01,Brasil,Geral,Indústria geral,indice_sa,2026-08,103.86675,indices_ago2026.txt,103.86675,True
+2026-08-01,Brasil,Geral,Indústria geral,indice_sa,2026-08,103.25254,indices_ago2026.txt,103.25254,True
+2026-01-01,Amazonas,Geral,Indústria geral,indice_sa,2026-08,102.22159,indices_ago2026.txt,102.22159,True
+2026-02-01,Amazonas,Geral,Indústria geral,indice_sa,2026-08,103.8554,indices_ago2026.txt,103.8554,True
+2026-03-01,Amazonas,Geral,Indústria geral,indice_sa,2026-08,106.77496,indices_ago2026.txt,106.77496,True
+2026-04-01,Amazonas,Geral,Indústria geral,indice_sa,2026-08,105.06469,indices_ago2026.txt,105.06469,True
+2026-05-01,Amazonas,Geral,Indústria geral,indice_sa,2026-08,107.10235,indices_ago2026.txt,107.10235,True
+2026-06-01,Amazonas,Geral,Indústria geral,indice_sa,2026-08,93.88263,indices_ago2026.txt,93.88263,True
+2026-07-01,Amazonas,Geral,Indústria geral,indice_sa,2026-08,107.33163,indices_ago2026.txt,107.33163,True
+2026-08-01,Amazonas,Geral,Indústria geral,indice_sa,2026-08,101.24691,indices_ago2026.txt,101.24691,True
+2026-01-01,Pará,Geral,Indústria geral,indice_sa,2026-08,110.18218,indices_ago2026.txt,110.18218,True
+2026-02-01,Pará,Geral,Indústria geral,indice_sa,2026-08,111.88949,indices_ago2026.txt,111.88949,True
+2026-03-01,Pará,Geral,Indústria geral,indice_sa,2026-08,117.78442,indices_ago2026.txt,117.78442,True
+2026-04-01,Pará,Geral,Indústria geral,indice_sa,2026-08,110.72369,indices_ago2026.txt,110.72369,True
+2026-05-01,Pará,Geral,Indústria geral,indice_sa,2026-08,109.49139,indices_ago2026.txt,109.49139,True
+2026-06-01,Pará,Geral,Indústria geral,indice_sa,2026-08,107.07484,indices_ago2026.txt,107.07484,True
+2026-07-01,Pará,Geral,Indústria geral,indice_sa,2026-08,102.32226,indices_ago2026.txt,102.32226,True
+2026-08-01,Pará,Geral,Indústria geral,indice_sa,2026-08,94.81025,indices_ago2026.txt,94.81025,True
+2026-01-01,Região Nordeste,Geral,Indústria geral,indice_sa,2026-08,97.18085,indices_ago2026.txt,97.18085,True
+2026-02-01,Região Nordeste,Geral,Indústria geral,indice_sa,2026-08,97.82464,indices_ago2026.txt,97.82464,True
+2026-03-01,Região Nordeste,Geral,Indústria geral,indice_sa,2026-08,99.69311,indices_ago2026.txt,99.69311,True
+2026-04-01,Região Nordeste,Geral,Indústria geral,indice_sa,2026-08,101.236,indices_ago2026.txt,101.236,True
+2026-05-01,Região Nordeste,Geral,Indústria geral,indice_sa,2026-08,99.25949,indices_ago2026.txt,99.25949,True
+2026-06-01,Região Nordeste,Geral,Indústria geral,indice_sa,2026-08,98.85765,indices_ago2026.txt,98.85765,True
+2026-07-01,Região Nordeste,Geral,Indústria geral,indice_sa,2026-08,98.40951,indices_ago2026.txt,98.40951,True
+2026-08-01,Região Nordeste,Geral,Indústria geral,indice_sa,2026-08,97.93389,indices_ago2026.txt,97.93389,True
+2026-01-01,Ceará,Geral,Indústria geral,indice_sa,2026-08,95.64491,indices_ago2026.txt,95.64491,True
+2026-02-01,Ceará,Geral,Indústria geral,indice_sa,2026-08,98.23284,indices_ago2026.txt,98.23284,True
+2026-03-01,Ceará,Geral,Indústria geral,indice_sa,2026-08,97.01323,indices_ago2026.txt,97.01323,True
+2026-04-01,Ceará,Geral,Indústria geral,indice_sa,2026-08,99.23831,indices_ago2026.txt,99.23831,True
+2026-05-01,Ceará,Geral,Indústria geral,indice_sa,2026-08,102.39336,indices_ago2026.txt,102.39336,True
+2026-06-01,Ceará,Geral,Indústria geral,indice_sa,2026-08,99.07574,indices_ago2026.txt,99.07574,True
+2026-07-01,Ceará,Geral,Indústria geral,indice_sa,2026-08,97.40185,indices_ago2026.txt,97.40185,True
+2026-08-01,Ceará,Geral,Indústria geral,indice_sa,2026-08,93.87632,indices_ago2026.txt,93.87632,True
+2026-01-01,Pernambuco,Geral,Indústria geral,indice_sa,2026-08,110.05184,indices_ago2026.txt,110.05184,True
+2026-02-01,Pernambuco,Geral,Indústria geral,indice_sa,2026-08,110.41261,indices_ago2026.txt,110.41261,True
+2026-03-01,Pernambuco,Geral,Indústria geral,indice_sa,2026-08,115.53351,indices_ago2026.txt,115.53351,True
+2026-04-01,Pernambuco,Geral,Indústria geral,indice_sa,2026-08,112.17683,indices_ago2026.txt,112.17683,True
+2026-05-01,Pernambuco,Geral,Indústria geral,indice_sa,2026-08,115.34987,indices_ago2026.txt,115.34987,True
+2026-06-01,Pernambuco,Geral,Indústria geral,indice_sa,2026-08,113.93773,indices_ago2026.txt,113.93773,True
+2026-07-01,Pernambuco,Geral,Indústria geral,indice_sa,2026-08,111.1728,indices_ago2026.txt,111.1728,True
+2026-08-01,Pernambuco,Geral,Indústria geral,indice_sa,2026-08,108.37739,indices_ago2026.txt,108.37739,True
+2026-01-01,Bahia,Geral,Indústria geral,indice_sa,2026-08,95.38648,indices_ago2026.txt,95.38648,True
+2026-02-01,Bahia,Geral,Indústria geral,indice_sa,2026-08,97.79471,indices_ago2026.txt,97.79471,True
+2026-03-01,Bahia,Geral,Indústria geral,indice_sa,2026-08,99.0818,indices_ago2026.txt,99.0818,True
+2026-04-01,Bahia,Geral,Indústria geral,indice_sa,2026-08,103.60597,indices_ago2026.txt,103.60597,True
+2026-05-01,Bahia,Geral,Indústria geral,indice_sa,2026-08,94.38137,indices_ago2026.txt,94.38137,True
+2026-06-01,Bahia,Geral,Indústria geral,indice_sa,2026-08,95.61554,indices_ago2026.txt,95.61554,True
+2026-07-01,Bahia,Geral,Indústria geral,indice_sa,2026-08,96.29176,indices_ago2026.txt,96.29176,True
+2026-08-01,Bahia,Geral,Indústria geral,indice_sa,2026-08,99.87647,indices_ago2026.txt,99.87647,True
+2026-01-01,Minas Gerais,Geral,Indústria geral,indice_sa,2026-08,108.91525,indices_ago2026.txt,108.91525,True
+2026-02-01,Minas Gerais,Geral,Indústria geral,indice_sa,2026-08,108.58595,indices_ago2026.txt,108.58595,True
+2026-03-01,Minas Gerais,Geral,Indústria geral,indice_sa,2026-08,107.10793,indices_ago2026.txt,107.10793,True
+2026-04-01,Minas Gerais,Geral,Indústria geral,indice_sa,2026-08,109.38467,indices_ago2026.txt,109.38467,True
+2026-05-01,Minas Gerais,Geral,Indústria geral,indice_sa,2026-08,107.41083,indices_ago2026.txt,107.41083,True
+2026-06-01,Minas Gerais,Geral,Indústria geral,indice_sa,2026-08,106.79645,indices_ago2026.txt,106.79645,True
+2026-07-01,Minas Gerais,Geral,Indústria geral,indice_sa,2026-08,107.09531,indices_ago2026.txt,107.09531,True
+2026-08-01,Minas Gerais,Geral,Indústria geral,indice_sa,2026-08,107.08598,indices_ago2026.txt,107.08598,True
+2026-01-01,Espírito Santo,Geral,Indústria geral,indice_sa,2026-08,120.77425,indices_ago2026.txt,120.77425,True
+2026-02-01,Espírito Santo,Geral,Indústria geral,indice_sa,2026-08,135.81943,indices_ago2026.txt,135.81943,True
+2026-03-01,Espírito Santo,Geral,Indústria geral,indice_sa,2026-08,140.81238,indices_ago2026.txt,140.81238,True
+2026-04-01,Espírito Santo,Geral,Indústria geral,indice_sa,2026-08,143.4703,indices_ago2026.txt,143.4703,True
+2026-05-01,Espírito Santo,Geral,Indústria geral,indice_sa,2026-08,142.84411,indices_ago2026.txt,142.84411,True
+2026-06-01,Espírito Santo,Geral,Indústria geral,indice_sa,2026-08,137.81169,indices_ago2026.txt,137.81169,True
+2026-07-01,Espírito Santo,Geral,Indústria geral,indice_sa,2026-08,140.54656,indices_ago2026.txt,140.54656,True
+2026-08-01,Espírito Santo,Geral,Indústria geral,indice_sa,2026-08,137.09735,indices_ago2026.txt,137.09735,True
+2026-01-01,Rio de Janeiro,Geral,Indústria geral,indice_sa,2026-08,114.00026,indices_ago2026.txt,114.00026,True
+2026-02-01,Rio de Janeiro,Geral,Indústria geral,indice_sa,2026-08,114.26387,indices_ago2026.txt,114.26387,True
+2026-03-01,Rio de Janeiro,Geral,Indústria geral,indice_sa,2026-08,118.08176,indices_ago2026.txt,118.08176,True
+2026-04-01,Rio de Janeiro,Geral,Indústria geral,indice_sa,2026-08,120.04982,indices_ago2026.txt,120.04982,True
+2026-05-01,Rio de Janeiro,Geral,Indústria geral,indice_sa,2026-08,119.83068,indices_ago2026.txt,119.83068,True
+2026-06-01,Rio de Janeiro,Geral,Indústria geral,indice_sa,2026-08,118.60086,indices_ago2026.txt,118.60086,True
+2026-07-01,Rio de Janeiro,Geral,Indústria geral,indice_sa,2026-08,119.38462,indices_ago2026.txt,119.38462,True
+2026-08-01,Rio de Janeiro,Geral,Indústria geral,indice_sa,2026-08,120.73317,indices_ago2026.txt,120.73317,True
+2026-01-01,São Paulo,Geral,Indústria geral,indice_sa,2026-08,99.1941,indices_ago2026.txt,99.1941,True
+2026-02-01,São Paulo,Geral,Indústria geral,indice_sa,2026-08,99.95527,indices_ago2026.txt,99.95527,True
+2026-03-01,São Paulo,Geral,Indústria geral,indice_sa,2026-08,99.43984,indices_ago2026.txt,99.43984,True
+2026-04-01,São Paulo,Geral,Indústria geral,indice_sa,2026-08,100.81385,indices_ago2026.txt,100.81385,True
+2026-05-01,São Paulo,Geral,Indústria geral,indice_sa,2026-08,100.21184,indices_ago2026.txt,100.21184,True
+2026-06-01,São Paulo,Geral,Indústria geral,indice_sa,2026-08,96.97132,indices_ago2026.txt,96.97132,True
+2026-07-01,São Paulo,Geral,Indústria geral,indice_sa,2026-08,97.10572,indices_ago2026.txt,97.10572,True
+2026-08-01,São Paulo,Geral,Indústria geral,indice_sa,2026-08,96.90742,indices_ago2026.txt,96.90742,True
+2026-01-01,Paraná,Geral,Indústria geral,indice_sa,2026-08,105.59364,indices_ago2026.txt,105.59364,True
+2026-02-01,Paraná,Geral,Indústria geral,indice_sa,2026-08,105.24226,indices_ago2026.txt,105.24226,True
+2026-03-01,Paraná,Geral,Indústria geral,indice_sa,2026-08,106.52828,indices_ago2026.txt,106.52828,True
+2026-04-01,Paraná,Geral,Indústria geral,indice_sa,2026-08,107.14327,indices_ago2026.txt,107.14327,True
+2026-05-01,Paraná,Geral,Indústria geral,indice_sa,2026-08,108.35564,indices_ago2026.txt,108.35564,True
+2026-06-01,Paraná,Geral,Indústria geral,indice_sa,2026-08,106.77599,indices_ago2026.txt,106.77599,True
+2026-07-01,Paraná,Geral,Indústria geral,indice_sa,2026-08,104.35449,indices_ago2026.txt,104.35449,True
+2026-08-01,Paraná,Geral,Indústria geral,indice_sa,2026-08,105.42073,indices_ago2026.txt,105.42073,True
+2026-01-01,Santa Catarina,Geral,Indústria geral,indice_sa,2026-08,105.05123,indices_ago2026.txt,105.05123,True
+2026-02-01,Santa Catarina,Geral,Indústria geral,indice_sa,2026-08,106.29927,indices_ago2026.txt,106.29927,True
+2026-03-01,Santa Catarina,Geral,Indústria geral,indice_sa,2026-08,107.49559,indices_ago2026.txt,107.49559,True
+2026-04-01,Santa Catarina,Geral,Indústria geral,indice_sa,2026-08,109.10785,indices_ago2026.txt,109.10785,True
+2026-05-01,Santa Catarina,Geral,Indústria geral,indice_sa,2026-08,109.91063,indices_ago2026.txt,109.91063,True
+2026-06-01,Santa Catarina,Geral,Indústria geral,indice_sa,2026-08,107.72625,indices_ago2026.txt,107.72625,True
+2026-07-01,Santa Catarina,Geral,Indústria geral,indice_sa,2026-08,108.36269,indices_ago2026.txt,108.36269,True
+2026-08-01,Santa Catarina,Geral,Indústria geral,indice_sa,2026-08,106.78755,indices_ago2026.txt,106.78755,True
+2026-01-01,Rio Grande do Sul,Geral,Indústria geral,indice_sa,2026-08,92.87397,indices_ago2026.txt,92.87397,True
+2026-02-01,Rio Grande do Sul,Geral,Indústria geral,indice_sa,2026-08,100.48884,indices_ago2026.txt,100.48884,True
+2026-03-01,Rio Grande do Sul,Geral,Indústria geral,indice_sa,2026-08,101.92647,indices_ago2026.txt,101.92647,True
+2026-04-01,Rio Grande do Sul,Geral,Indústria geral,indice_sa,2026-08,100.14748,indices_ago2026.txt,100.14748,True
+2026-05-01,Rio Grande do Sul,Geral,Indústria geral,indice_sa,2026-08,97.90822,indices_ago2026.txt,97.90822,True
+2026-06-01,Rio Grande do Sul,Geral,Indústria geral,indice_sa,2026-08,101.83565,indices_ago2026.txt,101.83565,True
+2026-07-01,Rio Grande do Sul,Geral,Indústria geral,indice_sa,2026-08,104.1712,indices_ago2026.txt,104.1712,True
+2026-08-01,Rio Grande do Sul,Geral,Indústria geral,indice_sa,2026-08,99.50534,indices_ago2026.txt,99.50534,True
+2026-01-01,Mato Grosso,Geral,Indústria geral,indice_sa,2026-08,113.35782,indices_ago2026.txt,113.35782,True
+2026-02-01,Mato Grosso,Geral,Indústria geral,indice_sa,2026-08,111.22287,indices_ago2026.txt,111.22287,True
+2026-03-01,Mato Grosso,Geral,Indústria geral,indice_sa,2026-08,115.48859,indices_ago2026.txt,115.48859,True
+2026-04-01,Mato Grosso,Geral,Indústria geral,indice_sa,2026-08,109.27678,indices_ago2026.txt,109.27678,True
+2026-05-01,Mato Grosso,Geral,Indústria geral,indice_sa,2026-08,106.15275,indices_ago2026.txt,106.15275,True
+2026-06-01,Mato Grosso,Geral,Indústria geral,indice_sa,2026-08,107.3803,indices_ago2026.txt,107.3803,True
+2026-07-01,Mato Grosso,Geral,Indústria geral,indice_sa,2026-08,99.29409,indices_ago2026.txt,99.29409,True
+2026-08-01,Mato Grosso,Geral,Indústria geral,indice_sa,2026-08,100.33528,indices_ago2026.txt,100.33528,True
+2026-01-01,Goiás,Geral,Indústria geral,indice_sa,2026-08,109.2637,indices_ago2026.txt,109.2637,True
+2026-02-01,Goiás,Geral,Indústria geral,indice_sa,2026-08,109.52712,indices_ago2026.txt,109.52712,True
+2026-03-01,Goiás,Geral,Indústria geral,indice_sa,2026-08,113.98259,indices_ago2026.txt,113.98259,True
+2026-04-01,Goiás,Geral,Indústria geral,indice_sa,2026-08,115.77812,indices_ago2026.txt,115.77812,True
+2026-05-01,Goiás,Geral,Indústria geral,indice_sa,2026-08,114.89276,indices_ago2026.txt,114.89276,True
+2026-06-01,Goiás,Geral,Indústria geral,indice_sa,2026-08,112.68324,indices_ago2026.txt,112.68324,True
+2026-07-01,Goiás,Geral,Indústria geral,indice_sa,2026-08,113.37025,indices_ago2026.txt,113.37025,True
+2026-08-01,Goiás,Geral,Indústria geral,indice_sa,2026-08,112.13745,indices_ago2026.txt,112.13745,True
+2024-01-01,Brasil,Geral,Indústria geral,mom,2026-09,-1.3,mom_set2026.txt,-1.3,True
+2024-02-01,Brasil,Geral,Indústria geral,mom,2026-09,0.0,mom_set2026.txt,0.0,True
+2024-03-01,Brasil,Geral,Indústria geral,mom,2026-09,0.3,mom_set2026.txt,0.3,True
+2024-04-01,Brasil,Geral,Indústria geral,mom,2026-09,-0.3,mom_set2026.txt,-0.3,True
+2024-05-01,Brasil,Geral,Indústria geral,mom,2026-09,-1.5,mom_set2026.txt,-1.5,True
+2024-06-01,Brasil,Geral,Indústria geral,mom,2026-09,5.0,mom_set2026.txt,5.0,True
+2024-07-01,Brasil,Geral,Indústria geral,mom,2026-09,-1.6,mom_set2026.txt,-1.6,True
+2024-08-01,Brasil,Geral,Indústria geral,mom,2026-09,-0.2,mom_set2026.txt,-0.2,True
+2024-09-01,Brasil,Geral,Indústria geral,mom,2026-09,1.1,mom_set2026.txt,1.1,True
+2024-10-01,Brasil,Geral,Indústria geral,mom,2026-09,0.0,mom_set2026.txt,0.0,True
+2024-11-01,Brasil,Geral,Indústria geral,mom,2026-09,-0.5,mom_set2026.txt,-0.5,True
+2024-12-01,Brasil,Geral,Indústria geral,mom,2026-09,-0.1,mom_set2026.txt,-0.1,True
+2025-01-01,Brasil,Geral,Indústria geral,mom,2026-09,-0.2,mom_set2026.txt,-0.2,True
+2025-02-01,Brasil,Geral,Indústria geral,mom,2026-09,-0.5,mom_set2026.txt,-0.5,True
+2025-03-01,Brasil,Geral,Indústria geral,mom,2026-09,1.5,mom_set2026.txt,1.5,True
+2025-04-01,Brasil,Geral,Indústria geral,mom,2026-09,-0.7,mom_set2026.txt,-0.7,True
+2025-05-01,Brasil,Geral,Indústria geral,mom,2026-09,-0.8,mom_set2026.txt,-0.8,True
+2025-06-01,Brasil,Geral,Indústria geral,mom,2026-09,0.9,mom_set2026.txt,0.9,True
+2025-07-01,Brasil,Geral,Indústria geral,mom,2026-09,-0.3,mom_set2026.txt,-0.3,True
+2025-08-01,Brasil,Geral,Indústria geral,mom,2026-09,0.9,mom_set2026.txt,0.9,True
+2025-09-01,Brasil,Geral,Indústria geral,mom,2026-09,-0.1,mom_set2026.txt,-0.1,True
+2025-10-01,Brasil,Geral,Indústria geral,mom,2026-09,0.0,mom_set2026.txt,0.0,True
+2025-11-01,Brasil,Geral,Indústria geral,mom,2026-09,-0.2,mom_set2026.txt,-0.2,True
+2025-12-01,Brasil,Geral,Indústria geral,mom,2026-09,-2.0,mom_set2026.txt,-2.0,True
+2026-01-01,Brasil,Geral,Indústria geral,mom,2026-09,2.1,mom_set2026.txt,2.1,True
+2026-02-01,Brasil,Geral,Indústria geral,mom,2026-09,0.9,mom_set2026.txt,0.9,True
+2026-03-01,Brasil,Geral,Indústria geral,mom,2026-09,0.1,mom_set2026.txt,0.1,True
+2026-04-01,Brasil,Geral,Indústria geral,mom,2026-09,1.1,mom_set2026.txt,1.1,True
+2026-05-01,Brasil,Geral,Indústria geral,mom,2026-09,-1.0,mom_set2026.txt,-1.0,True
+2026-06-01,Brasil,Geral,Indústria geral,mom,2026-09,-1.6,mom_set2026.txt,-1.6,True
+2026-07-01,Brasil,Geral,Indústria geral,mom,2026-09,0.0,mom_set2026.txt,0.0,True
+2026-08-01,Brasil,Geral,Indústria geral,mom,2026-09,-0.7,mom_set2026.txt,-0.7,True
+2026-09-01,Brasil,Geral,Indústria geral,mom,2026-09,-0.8,mom_set2026.txt,-0.8,True
+2026-01-01,Amazonas,Geral,Indústria geral,mom,2026-09,1.7,mom_set2026.txt,1.7,True
+2026-02-01,Amazonas,Geral,Indústria geral,mom,2026-09,1.6,mom_set2026.txt,1.6,True
+2026-03-01,Amazonas,Geral,Indústria geral,mom,2026-09,2.8,mom_set2026.txt,2.8,True
+2026-04-01,Amazonas,Geral,Indústria geral,mom,2026-09,-1.6,mom_set2026.txt,-1.6,True
+2026-05-01,Amazonas,Geral,Indústria geral,mom,2026-09,1.9,mom_set2026.txt,1.9,True
+2026-06-01,Amazonas,Geral,Indústria geral,mom,2026-09,-12.3,mom_set2026.txt,-12.3,True
+2026-07-01,Amazonas,Geral,Indústria geral,mom,2026-09,14.4,mom_set2026.txt,14.4,True
+2026-08-01,Amazonas,Geral,Indústria geral,mom,2026-09,-5.5,mom_set2026.txt,-5.5,True
+2026-09-01,Amazonas,Geral,Indústria geral,mom,2026-09,4.7,mom_set2026.txt,4.7,True
+2026-01-01,Pará,Geral,Indústria geral,mom,2026-09,8.7,mom_set2026.txt,8.7,True
+2026-02-01,Pará,Geral,Indústria geral,mom,2026-09,1.8,mom_set2026.txt,1.8,True
+2026-03-01,Pará,Geral,Indústria geral,mom,2026-09,5.5,mom_set2026.txt,5.5,True
+2026-04-01,Pará,Geral,Indústria geral,mom,2026-09,-6.3,mom_set2026.txt,-6.3,True
+2026-05-01,Pará,Geral,Indústria geral,mom,2026-09,-1.1,mom_set2026.txt,-1.1,True
+2026-06-01,Pará,Geral,Indústria geral,mom,2026-09,-2.2,mom_set2026.txt,-2.2,True
+2026-07-01,Pará,Geral,Indústria geral,mom,2026-09,-4.2,mom_set2026.txt,-4.2,True
+2026-08-01,Pará,Geral,Indústria geral,mom,2026-09,-4.0,mom_set2026.txt,-4.0,True
+2026-09-01,Pará,Geral,Indústria geral,mom,2026-09,2.6,mom_set2026.txt,2.6,True
+2026-01-01,Região Nordeste,Geral,Indústria geral,mom,2026-09,3.1,mom_set2026.txt,3.1,True
+2026-02-01,Região Nordeste,Geral,Indústria geral,mom,2026-09,0.7,mom_set2026.txt,0.7,True
+2026-03-01,Região Nordeste,Geral,Indústria geral,mom,2026-09,1.9,mom_set2026.txt,1.9,True
+2026-04-01,Região Nordeste,Geral,Indústria geral,mom,2026-09,1.5,mom_set2026.txt,1.5,True
+2026-05-01,Região Nordeste,Geral,Indústria geral,mom,2026-09,-2.0,mom_set2026.txt,-2.0,True
+2026-06-01,Região Nordeste,Geral,Indústria geral,mom,2026-09,-0.4,mom_set2026.txt,-0.4,True
+2026-07-01,Região Nordeste,Geral,Indústria geral,mom,2026-09,-0.4,mom_set2026.txt,-0.4,True
+2026-08-01,Região Nordeste,Geral,Indústria geral,mom,2026-09,-0.3,mom_set2026.txt,-0.3,True
+2026-09-01,Região Nordeste,Geral,Indústria geral,mom,2026-09,-0.9,mom_set2026.txt,-0.9,True
+2026-01-01,Ceará,Geral,Indústria geral,mom,2026-09,-0.3,mom_set2026.txt,-0.3,True
+2026-02-01,Ceará,Geral,Indústria geral,mom,2026-09,2.8,mom_set2026.txt,2.8,True
+2026-03-01,Ceará,Geral,Indústria geral,mom,2026-09,-1.2,mom_set2026.txt,-1.2,True
+2026-04-01,Ceará,Geral,Indústria geral,mom,2026-09,2.4,mom_set2026.txt,2.4,True
+2026-05-01,Ceará,Geral,Indústria geral,mom,2026-09,3.4,mom_set2026.txt,3.4,True
+2026-06-01,Ceará,Geral,Indústria geral,mom,2026-09,-3.5,mom_set2026.txt,-3.5,True
+2026-07-01,Ceará,Geral,Indústria geral,mom,2026-09,-1.6,mom_set2026.txt,-1.6,True
+2026-08-01,Ceará,Geral,Indústria geral,mom,2026-09,-3.5,mom_set2026.txt,-3.5,True
+2026-09-01,Ceará,Geral,Indústria geral,mom,2026-09,3.7,mom_set2026.txt,3.7,True
+2026-01-01,Pernambuco,Geral,Indústria geral,mom,2026-09,-2.3,mom_set2026.txt,-2.3,True
+2026-02-01,Pernambuco,Geral,Indústria geral,mom,2026-09,0.3,mom_set2026.txt,0.3,True
+2026-03-01,Pernambuco,Geral,Indústria geral,mom,2026-09,4.5,mom_set2026.txt,4.5,True
+2026-04-01,Pernambuco,Geral,Indústria geral,mom,2026-09,-3.0,mom_set2026.txt,-3.0,True
+2026-05-01,Pernambuco,Geral,Indústria geral,mom,2026-09,2.9,mom_set2026.txt,2.9,True
+2026-06-01,Pernambuco,Geral,Indústria geral,mom,2026-09,-1.3,mom_set2026.txt,-1.3,True
+2026-07-01,Pernambuco,Geral,Indústria geral,mom,2026-09,-2.5,mom_set2026.txt,-2.5,True
+2026-08-01,Pernambuco,Geral,Indústria geral,mom,2026-09,-2.3,mom_set2026.txt,-2.3,True
+2026-09-01,Pernambuco,Geral,Indústria geral,mom,2026-09,-3.0,mom_set2026.txt,-3.0,True
+2026-01-01,Bahia,Geral,Indústria geral,mom,2026-09,4.6,mom_set2026.txt,4.6,True
+2026-02-01,Bahia,Geral,Indústria geral,mom,2026-09,2.5,mom_set2026.txt,2.5,True
+2026-03-01,Bahia,Geral,Indústria geral,mom,2026-09,1.3,mom_set2026.txt,1.3,True
+2026-04-01,Bahia,Geral,Indústria geral,mom,2026-09,4.6,mom_set2026.txt,4.6,True
+2026-05-01,Bahia,Geral,Indústria geral,mom,2026-09,-9.0,mom_set2026.txt,-9.0,True
+2026-06-01,Bahia,Geral,Indústria geral,mom,2026-09,1.2,mom_set2026.txt,1.2,True
+2026-07-01,Bahia,Geral,Indústria geral,mom,2026-09,0.7,mom_set2026.txt,0.7,True
+2026-08-01,Bahia,Geral,Indústria geral,mom,2026-09,4.0,mom_set2026.txt,4.0,True
+2026-09-01,Bahia,Geral,Indústria geral,mom,2026-09,-2.4,mom_set2026.txt,-2.4,True
+2026-01-01,Minas Gerais,Geral,Indústria geral,mom,2026-09,3.3,mom_set2026.txt,3.3,True
+2026-02-01,Minas Gerais,Geral,Indústria geral,mom,2026-09,-0.3,mom_set2026.txt,-0.3,True
+2026-03-01,Minas Gerais,Geral,Indústria geral,mom,2026-09,-1.4,mom_set2026.txt,-1.4,True
+2026-04-01,Minas Gerais,Geral,Indústria geral,mom,2026-09,2.0,mom_set2026.txt,2.0,True
+2026-05-01,Minas Gerais,Geral,Indústria geral,mom,2026-09,-1.9,mom_set2026.txt,-1.9,True
+2026-06-01,Minas Gerais,Geral,Indústria geral,mom,2026-09,-0.7,mom_set2026.txt,-0.7,True
+2026-07-01,Minas Gerais,Geral,Indústria geral,mom,2026-09,0.2,mom_set2026.txt,0.2,True
+2026-08-01,Minas Gerais,Geral,Indústria geral,mom,2026-09,-0.6,mom_set2026.txt,-0.6,True
+2026-09-01,Minas Gerais,Geral,Indústria geral,mom,2026-09,-2.5,mom_set2026.txt,-2.5,True
+2026-01-01,Espírito Santo,Geral,Indústria geral,mom,2026-09,-7.1,mom_set2026.txt,-7.1,True
+2026-02-01,Espírito Santo,Geral,Indústria geral,mom,2026-09,12.7,mom_set2026.txt,12.7,True
+2026-03-01,Espírito Santo,Geral,Indústria geral,mom,2026-09,3.5,mom_set2026.txt,3.5,True
+2026-04-01,Espírito Santo,Geral,Indústria geral,mom,2026-09,2.4,mom_set2026.txt,2.4,True
+2026-05-01,Espírito Santo,Geral,Indústria geral,mom,2026-09,-0.8,mom_set2026.txt,-0.8,True
+2026-06-01,Espírito Santo,Geral,Indústria geral,mom,2026-09,-3.9,mom_set2026.txt,-3.9,True
+2026-07-01,Espírito Santo,Geral,Indústria geral,mom,2026-09,1.9,mom_set2026.txt,1.9,True
+2026-08-01,Espírito Santo,Geral,Indústria geral,mom,2026-09,-3.3,mom_set2026.txt,-3.3,True
+2026-09-01,Espírito Santo,Geral,Indústria geral,mom,2026-09,-2.7,mom_set2026.txt,-2.7,True
+2026-01-01,Rio de Janeiro,Geral,Indústria geral,mom,2026-09,-0.1,mom_set2026.txt,-0.1,True
+2026-02-01,Rio de Janeiro,Geral,Indústria geral,mom,2026-09,0.3,mom_set2026.txt,0.3,True
+2026-03-01,Rio de Janeiro,Geral,Indústria geral,mom,2026-09,3.4,mom_set2026.txt,3.4,True
+2026-04-01,Rio de Janeiro,Geral,Indústria geral,mom,2026-09,1.7,mom_set2026.txt,1.7,True
+2026-05-01,Rio de Janeiro,Geral,Indústria geral,mom,2026-09,-0.2,mom_set2026.txt,-0.2,True
+2026-06-01,Rio de Janeiro,Geral,Indústria geral,mom,2026-09,-1.1,mom_set2026.txt,-1.1,True
+2026-07-01,Rio de Janeiro,Geral,Indústria geral,mom,2026-09,0.5,mom_set2026.txt,0.5,True
+2026-08-01,Rio de Janeiro,Geral,Indústria geral,mom,2026-09,1.1,mom_set2026.txt,1.1,True
+2026-09-01,Rio de Janeiro,Geral,Indústria geral,mom,2026-09,0.3,mom_set2026.txt,0.3,True
+2026-01-01,São Paulo,Geral,Indústria geral,mom,2026-09,4.2,mom_set2026.txt,4.2,True
+2026-02-01,São Paulo,Geral,Indústria geral,mom,2026-09,0.7,mom_set2026.txt,0.7,True
+2026-03-01,São Paulo,Geral,Indústria geral,mom,2026-09,-1.0,mom_set2026.txt,-1.0,True
+2026-04-01,São Paulo,Geral,Indústria geral,mom,2026-09,1.7,mom_set2026.txt,1.7,True
+2026-05-01,São Paulo,Geral,Indústria geral,mom,2026-09,-1.4,mom_set2026.txt,-1.4,True
+2026-06-01,São Paulo,Geral,Indústria geral,mom,2026-09,-2.8,mom_set2026.txt,-2.8,True
+2026-07-01,São Paulo,Geral,Indústria geral,mom,2026-09,-0.1,mom_set2026.txt,-0.1,True
+2026-08-01,São Paulo,Geral,Indústria geral,mom,2026-09,-0.5,mom_set2026.txt,-0.5,True
+2026-09-01,São Paulo,Geral,Indústria geral,mom,2026-09,-3.8,mom_set2026.txt,-3.8,True
+2026-01-01,Paraná,Geral,Indústria geral,mom,2026-09,0.9,mom_set2026.txt,0.9,True
+2026-02-01,Paraná,Geral,Indústria geral,mom,2026-09,-0.3,mom_set2026.txt,-0.3,True
+2026-03-01,Paraná,Geral,Indústria geral,mom,2026-09,1.2,mom_set2026.txt,1.2,True
+2026-04-01,Paraná,Geral,Indústria geral,mom,2026-09,0.6,mom_set2026.txt,0.6,True
+2026-05-01,Paraná,Geral,Indústria geral,mom,2026-09,1.2,mom_set2026.txt,1.2,True
+2026-06-01,Paraná,Geral,Indústria geral,mom,2026-09,-1.5,mom_set2026.txt,-1.5,True
+2026-07-01,Paraná,Geral,Indústria geral,mom,2026-09,-2.2,mom_set2026.txt,-2.2,True
+2026-08-01,Paraná,Geral,Indústria geral,mom,2026-09,1.1,mom_set2026.txt,1.1,True
+2026-09-01,Paraná,Geral,Indústria geral,mom,2026-09,-0.2,mom_set2026.txt,-0.2,True
+2026-01-01,Santa Catarina,Geral,Indústria geral,mom,2026-09,-1.1,mom_set2026.txt,-1.1,True
+2026-02-01,Santa Catarina,Geral,Indústria geral,mom,2026-09,1.2,mom_set2026.txt,1.2,True
+2026-03-01,Santa Catarina,Geral,Indústria geral,mom,2026-09,1.1,mom_set2026.txt,1.1,True
+2026-04-01,Santa Catarina,Geral,Indústria geral,mom,2026-09,1.4,mom_set2026.txt,1.4,True
+2026-05-01,Santa Catarina,Geral,Indústria geral,mom,2026-09,0.7,mom_set2026.txt,0.7,True
+2026-06-01,Santa Catarina,Geral,Indústria geral,mom,2026-09,-2.0,mom_set2026.txt,-2.0,True
+2026-07-01,Santa Catarina,Geral,Indústria geral,mom,2026-09,0.6,mom_set2026.txt,0.6,True
+2026-08-01,Santa Catarina,Geral,Indústria geral,mom,2026-09,-1.5,mom_set2026.txt,-1.5,True
+2026-09-01,Santa Catarina,Geral,Indústria geral,mom,2026-09,-1.0,mom_set2026.txt,-1.0,True
+2026-01-01,Rio Grande do Sul,Geral,Indústria geral,mom,2026-09,-5.5,mom_set2026.txt,-5.5,True
+2026-02-01,Rio Grande do Sul,Geral,Indústria geral,mom,2026-09,8.1,mom_set2026.txt,8.1,True
+2026-03-01,Rio Grande do Sul,Geral,Indústria geral,mom,2026-09,1.5,mom_set2026.txt,1.5,True
+2026-04-01,Rio Grande do Sul,Geral,Indústria geral,mom,2026-09,-1.6,mom_set2026.txt,-1.6,True
+2026-05-01,Rio Grande do Sul,Geral,Indústria geral,mom,2026-09,-2.4,mom_set2026.txt,-2.4,True
+2026-06-01,Rio Grande do Sul,Geral,Indústria geral,mom,2026-09,4.3,mom_set2026.txt,4.3,True
+2026-07-01,Rio Grande do Sul,Geral,Indústria geral,mom,2026-09,1.4,mom_set2026.txt,1.4,True
+2026-08-01,Rio Grande do Sul,Geral,Indústria geral,mom,2026-09,-3.4,mom_set2026.txt,-3.4,True
+2026-09-01,Rio Grande do Sul,Geral,Indústria geral,mom,2026-09,3.8,mom_set2026.txt,3.8,True
+2026-01-01,Mato Grosso,Geral,Indústria geral,mom,2026-09,-0.7,mom_set2026.txt,-0.7,True
+2026-02-01,Mato Grosso,Geral,Indústria geral,mom,2026-09,-1.9,mom_set2026.txt,-1.9,True
+2026-03-01,Mato Grosso,Geral,Indústria geral,mom,2026-09,3.8,mom_set2026.txt,3.8,True
+2026-04-01,Mato Grosso,Geral,Indústria geral,mom,2026-09,-5.4,mom_set2026.txt,-5.4,True
+2026-05-01,Mato Grosso,Geral,Indústria geral,mom,2026-09,-2.8,mom_set2026.txt,-2.8,True
+2026-06-01,Mato Grosso,Geral,Indústria geral,mom,2026-09,1.2,mom_set2026.txt,1.2,True
+2026-07-01,Mato Grosso,Geral,Indústria geral,mom,2026-09,-8.0,mom_set2026.txt,-8.0,True
+2026-08-01,Mato Grosso,Geral,Indústria geral,mom,2026-09,2.1,mom_set2026.txt,2.1,True
+2026-09-01,Mato Grosso,Geral,Indústria geral,mom,2026-09,4.9,mom_set2026.txt,4.9,True
+2026-01-01,Goiás,Geral,Indústria geral,mom,2026-09,-1.6,mom_set2026.txt,-1.6,True
+2026-02-01,Goiás,Geral,Indústria geral,mom,2026-09,0.4,mom_set2026.txt,0.4,True
+2026-03-01,Goiás,Geral,Indústria geral,mom,2026-09,3.9,mom_set2026.txt,3.9,True
+2026-04-01,Goiás,Geral,Indústria geral,mom,2026-09,1.0,mom_set2026.txt,1.0,True
+2026-05-01,Goiás,Geral,Indústria geral,mom,2026-09,-0.6,mom_set2026.txt,-0.6,True
+2026-06-01,Goiás,Geral,Indústria geral,mom,2026-09,-1.9,mom_set2026.txt,-1.9,True
+2026-07-01,Goiás,Geral,Indústria geral,mom,2026-09,0.2,mom_set2026.txt,0.2,True
+2026-08-01,Goiás,Geral,Indústria geral,mom,2026-09,-1.5,mom_set2026.txt,-1.5,True
+2026-09-01,Goiás,Geral,Indústria geral,mom,2026-09,-4.1,mom_set2026.txt,-4.1,True
+2026-09-01,Amazonas,Geral,Indústria geral,yoy,2026-09,0.9,regional.csv,0.9,True
+2026-09-01,Amazonas,Geral,Indústria geral,ytd,2026-09,-2.1,regional.csv,-2.1,True
+2026-09-01,Amazonas,Geral,Indústria geral,l12,2026-09,-1.4,regional.csv,-1.4,True
+2026-09-01,Pará,Geral,Indústria geral,yoy,2026-09,-13.2,regional.csv,-13.2,True
+2026-09-01,Pará,Geral,Indústria geral,ytd,2026-09,-6.4,regional.csv,-6.4,True
+2026-09-01,Pará,Geral,Indústria geral,l12,2026-09,-7.2,regional.csv,-7.2,True
+2026-09-01,Região Nordeste,Geral,Indústria geral,yoy,2026-09,-3.2,regional.csv,-3.2,True
+2026-09-01,Região Nordeste,Geral,Indústria geral,ytd,2026-09,0.5,regional.csv,0.5,True
+2026-09-01,Região Nordeste,Geral,Indústria geral,l12,2026-09,0.2,regional.csv,0.2,True
+2026-09-01,Maranhão,Geral,Indústria geral,mom,2026-09,,regional.csv,,True
+2026-09-01,Maranhão,Geral,Indústria geral,yoy,2026-09,-8.1,regional.csv,-8.1,True
+2026-09-01,Maranhão,Geral,Indústria geral,ytd,2026-09,-7.0,regional.csv,-7.0,True
+2026-09-01,Maranhão,Geral,Indústria geral,l12,2026-09,-5.8,regional.csv,-5.8,True
+2026-09-01,Ceará,Geral,Indústria geral,yoy,2026-09,-4.4,regional.csv,-4.4,True
+2026-09-01,Ceará,Geral,Indústria geral,ytd,2026-09,-3.9,regional.csv,-3.9,True
+2026-09-01,Ceará,Geral,Indústria geral,l12,2026-09,-3.2,regional.csv,-3.2,True
+2026-09-01,Rio Grande do Norte,Geral,Indústria geral,mom,2026-09,,regional.csv,,True
+2026-09-01,Rio Grande do Norte,Geral,Indústria geral,yoy,2026-09,-15.3,regional.csv,-15.3,True
+2026-09-01,Rio Grande do Norte,Geral,Indústria geral,ytd,2026-09,-11.3,regional.csv,-11.3,True
+2026-09-01,Rio Grande do Norte,Geral,Indústria geral,l12,2026-09,-10.7,regional.csv,-10.7,True
+2026-09-01,Pernambuco,Geral,Indústria geral,yoy,2026-09,-7.7,regional.csv,-7.7,True
+2026-09-01,Pernambuco,Geral,Indústria geral,ytd,2026-09,11.2,regional.csv,11.2,True
+2026-09-01,Pernambuco,Geral,Indústria geral,l12,2026-09,8.8,regional.csv,8.8,True
+2026-09-01,Bahia,Geral,Indústria geral,yoy,2026-09,-1.3,regional.csv,-1.3,True
+2026-09-01,Bahia,Geral,Indústria geral,ytd,2026-09,-4.0,regional.csv,-4.0,True
+2026-09-01,Bahia,Geral,Indústria geral,l12,2026-09,-3.5,regional.csv,-3.5,True
+2026-09-01,Minas Gerais,Geral,Indústria geral,yoy,2026-09,-4.1,regional.csv,-4.1,True
+2026-09-01,Minas Gerais,Geral,Indústria geral,ytd,2026-09,0.1,regional.csv,0.1,True
+2026-09-01,Minas Gerais,Geral,Indústria geral,l12,2026-09,0.9,regional.csv,0.9,True
+2026-09-01,Espírito Santo,Geral,Indústria geral,yoy,2026-09,-0.9,regional.csv,-0.9,True
+2026-09-01,Espírito Santo,Geral,Indústria geral,ytd,2026-09,15.2,regional.csv,15.2,True
+2026-09-01,Espírito Santo,Geral,Indústria geral,l12,2026-09,17.3,regional.csv,17.3,True
+2026-09-01,Rio de Janeiro,Geral,Indústria geral,yoy,2026-09,10.7,regional.csv,10.7,True
+2026-09-01,Rio de Janeiro,Geral,Indústria geral,ytd,2026-09,7.3,regional.csv,7.3,True
+2026-09-01,Rio de Janeiro,Geral,Indústria geral,l12,2026-09,7.3,regional.csv,7.3,True
+2026-09-01,São Paulo,Geral,Indústria geral,yoy,2026-09,-7.5,regional.csv,-7.5,True
+2026-09-01,São Paulo,Geral,Indústria geral,ytd,2026-09,-1.9,regional.csv,-1.9,True
+2026-09-01,São Paulo,Geral,Indústria geral,l12,2026-09,-2.6,regional.csv,-2.6,True
+2026-09-01,Paraná,Geral,Indústria geral,yoy,2026-09,-0.4,regional.csv,-0.4,True
+2026-09-01,Paraná,Geral,Indústria geral,ytd,2026-09,-1.0,regional.csv,-1.0,True
+2026-09-01,Paraná,Geral,Indústria geral,l12,2026-09,-1.3,regional.csv,-1.3,True
+2026-09-01,Santa Catarina,Geral,Indústria geral,yoy,2026-09,-4.5,regional.csv,-4.5,True
+2026-09-01,Santa Catarina,Geral,Indústria geral,ytd,2026-09,-1.8,regional.csv,-1.8,True
+2026-09-01,Santa Catarina,Geral,Indústria geral,l12,2026-09,-1.4,regional.csv,-1.4,True
+2026-09-01,Rio Grande do Sul,Geral,Indústria geral,yoy,2026-09,-0.8,regional.csv,-0.8,True
+2026-09-01,Rio Grande do Sul,Geral,Indústria geral,ytd,2026-09,3.1,regional.csv,3.1,True
+2026-09-01,Rio Grande do Sul,Geral,Indústria geral,l12,2026-09,2.8,regional.csv,2.8,True
+2026-09-01,Mato Grosso do Sul,Geral,Indústria geral,mom,2026-09,,regional.csv,,True
+2026-09-01,Mato Grosso do Sul,Geral,Indústria geral,yoy,2026-09,1.1,regional.csv,1.1,True
+2026-09-01,Mato Grosso do Sul,Geral,Indústria geral,ytd,2026-09,7.3,regional.csv,7.3,True
+2026-09-01,Mato Grosso do Sul,Geral,Indústria geral,l12,2026-09,1.9,regional.csv,1.9,True
+2026-09-01,Mato Grosso,Geral,Indústria geral,yoy,2026-09,2.6,regional.csv,2.6,True
+2026-09-01,Mato Grosso,Geral,Indústria geral,ytd,2026-09,2.2,regional.csv,2.2,True
+2026-09-01,Mato Grosso,Geral,Indústria geral,l12,2026-09,0.5,regional.csv,0.5,True
+2026-09-01,Goiás,Geral,Indústria geral,yoy,2026-09,-5.7,regional.csv,-5.7,True
+2026-09-01,Goiás,Geral,Indústria geral,ytd,2026-09,1.2,regional.csv,1.2,True
+2026-09-01,Goiás,Geral,Indústria geral,l12,2026-09,2.0,regional.csv,2.0,True
+2026-09-01,Brasil,Geral,Indústria geral,yoy,2026-09,-2.5,regional.csv,-2.5,True
+2026-09-01,Brasil,Geral,Indústria geral,ytd,2026-09,0.4,regional.csv,0.4,True
+2026-09-01,Brasil,Geral,Indústria geral,l12,2026-09,0.2,regional.csv,0.2,True
+2026-07-01,Brasil,Categoria,Bens de capital,mom,2026-09,1.1,setores.csv,1.1,True
+2026-08-01,Brasil,Categoria,Bens de capital,mom,2026-09,-0.1,setores.csv,-0.1,True
+2026-09-01,Brasil,Categoria,Bens de capital,mom,2026-09,-1.9,setores.csv,-1.9,True
+2026-07-01,Brasil,Categoria,Bens de capital,yoy,2026-09,-4.4,setores.csv,-4.4,True
+2026-08-01,Brasil,Categoria,Bens de capital,yoy,2026-09,-2.9,setores.csv,-2.9,True
+2026-09-01,Brasil,Categoria,Bens de capital,yoy,2026-09,-4.9,setores.csv,-4.9,True
+2026-09-01,Brasil,Categoria,Bens de capital,l12,2026-09,-5.1,setores.csv,-5.1,True
+2026-07-01,Brasil,Categoria,Bens intermediários,mom,2026-09,-0.2,setores.csv,-0.2,True
+2026-08-01,Brasil,Categoria,Bens intermediários,mom,2026-09,-0.4,setores.csv,-0.4,True
+2026-09-01,Brasil,Categoria,Bens intermediários,mom,2026-09,-0.7,setores.csv,-0.7,True
+2026-07-01,Brasil,Categoria,Bens intermediários,yoy,2026-09,0.2,setores.csv,0.2,True
+2026-08-01,Brasil,Categoria,Bens intermediários,yoy,2026-09,-0.2,setores.csv,-0.2,True
+2026-09-01,Brasil,Categoria,Bens intermediários,yoy,2026-09,-1.3,setores.csv,-1.3,True
+2026-09-01,Brasil,Categoria,Bens intermediários,l12,2026-09,0.7,setores.csv,0.7,True
+2026-07-01,Brasil,Categoria,Bens de consumo,mom,2026-09,0.3,setores.csv,0.3,True
+2026-08-01,Brasil,Categoria,Bens de consumo,mom,2026-09,-1.5,setores.csv,-1.5,True
+2026-09-01,Brasil,Categoria,Bens de consumo,mom,2026-09,-0.8,setores.csv,-0.8,True
+2026-07-01,Brasil,Categoria,Bens de consumo,yoy,2026-09,-1.3,setores.csv,-1.3,True
+2026-08-01,Brasil,Categoria,Bens de consumo,yoy,2026-09,-3.3,setores.csv,-3.3,True
+2026-09-01,Brasil,Categoria,Bens de consumo,yoy,2026-09,-4.8,setores.csv,-4.8,True
+2026-09-01,Brasil,Categoria,Bens de consumo,l12,2026-09,-0.1,setores.csv,-0.1,True
+2026-07-01,Brasil,Categoria,Bens de consumo duráveis,mom,2026-09,3.1,setores.csv,3.1,True
+2026-08-01,Brasil,Categoria,Bens de consumo duráveis,mom,2026-09,-1.3,setores.csv,-1.3,True
+2026-09-01,Brasil,Categoria,Bens de consumo duráveis,mom,2026-09,0.7,setores.csv,0.7,True
+2026-07-01,Brasil,Categoria,Bens de consumo duráveis,yoy,2026-09,5.0,setores.csv,5.0,True
+2026-08-01,Brasil,Categoria,Bens de consumo duráveis,yoy,2026-09,2.6,setores.csv,2.6,True
+2026-09-01,Brasil,Categoria,Bens de consumo duráveis,yoy,2026-09,3.8,setores.csv,3.8,True
+2026-09-01,Brasil,Categoria,Bens de consumo duráveis,l12,2026-09,1.1,setores.csv,1.1,True
+2026-07-01,Brasil,Categoria,Bens de consumo semi e não duráveis,mom,2026-09,0.1,setores.csv,0.1,True
+2026-08-01,Brasil,Categoria,Bens de consumo semi e não duráveis,mom,2026-09,-1.7,setores.csv,-1.7,True
+2026-09-01,Brasil,Categoria,Bens de consumo semi e não duráveis,mom,2026-09,-1.2,setores.csv,-1.2,True
+2026-07-01,Brasil,Categoria,Bens de consumo semi e não duráveis,yoy,2026-09,-2.4,setores.csv,-2.4,True
+2026-08-01,Brasil,Categoria,Bens de consumo semi e não duráveis,yoy,2026-09,-4.4,setores.csv,-4.4,True
+2026-09-01,Brasil,Categoria,Bens de consumo semi e não duráveis,yoy,2026-09,-6.3,setores.csv,-6.3,True
+2026-09-01,Brasil,Categoria,Bens de consumo semi e não duráveis,l12,2026-09,-0.4,setores.csv,-0.4,True
+2026-07-01,Brasil,Seção,Indústrias de transformação,mom,2026-09,0.1,setores.csv,0.1,True
+2026-08-01,Brasil,Seção,Indústrias de transformação,mom,2026-09,-0.8,setores.csv,-0.8,True
+2026-09-01,Brasil,Seção,Indústrias de transformação,mom,2026-09,-1.3,setores.csv,-1.3,True
+2026-07-01,Brasil,Seção,Indústrias de transformação,yoy,2026-09,-1.0,setores.csv,-1.0,True
+2026-08-01,Brasil,Seção,Indústrias de transformação,yoy,2026-09,-1.9,setores.csv,-1.9,True
+2026-09-01,Brasil,Seção,Indústrias de transformação,yoy,2026-09,-3.8,setores.csv,-3.8,True
+2026-09-01,Brasil,Seção,Indústrias de transformação,l12,2026-09,-1.0,setores.csv,-1.0,True
+2026-07-01,Brasil,Seção,Indústrias extrativas,mom,2026-09,-0.9,setores.csv,-0.9,True
+2026-08-01,Brasil,Seção,Indústrias extrativas,mom,2026-09,-0.6,setores.csv,-0.6,True
+2026-09-01,Brasil,Seção,Indústrias extrativas,mom,2026-09,1.7,setores.csv,1.7,True
+2026-07-01,Brasil,Seção,Indústrias extrativas,yoy,2026-09,2.5,setores.csv,2.5,True
+2026-08-01,Brasil,Seção,Indústrias extrativas,yoy,2026-09,2.4,setores.csv,2.4,True
+2026-09-01,Brasil,Seção,Indústrias extrativas,yoy,2026-09,4.4,setores.csv,4.4,True
+2026-09-01,Brasil,Seção,Indústrias extrativas,l12,2026-09,6.2,setores.csv,6.2,True
+2026-07-01,Brasil,Atividade,Alimentos,mom,2026-09,0.8,setores.csv,0.8,True
+2026-08-01,Brasil,Atividade,Alimentos,mom,2026-09,0.9,setores.csv,0.9,True
+2026-09-01,Brasil,Atividade,Alimentos,mom,2026-09,-1.7,setores.csv,-1.7,True
+2026-07-01,Brasil,Atividade,Alimentos,yoy,2026-09,-2.7,setores.csv,-2.7,True
+2026-08-01,Brasil,Atividade,Alimentos,yoy,2026-09,-0.9,setores.csv,-0.9,True
+2026-09-01,Brasil,Atividade,Alimentos,yoy,2026-09,-5.9,setores.csv,-5.9,True
+2026-09-01,Brasil,Atividade,Alimentos,l12,2026-09,0.7,setores.csv,0.7,True
+2026-07-01,Brasil,Atividade,Refino e biocombustíveis,mom,2026-09,0.4,setores.csv,0.4,True
+2026-08-01,Brasil,Atividade,Refino e biocombustíveis,mom,2026-09,-0.5,setores.csv,-0.5,True
+2026-09-01,Brasil,Atividade,Refino e biocombustíveis,mom,2026-09,-4.2,setores.csv,-4.2,True
+2026-07-01,Brasil,Atividade,Refino e biocombustíveis,yoy,2026-09,0.9,setores.csv,0.9,True
+2026-08-01,Brasil,Atividade,Refino e biocombustíveis,yoy,2026-09,-1.0,setores.csv,-1.0,True
+2026-09-01,Brasil,Atividade,Refino e biocombustíveis,yoy,2026-09,-4.3,setores.csv,-4.3,True
+2026-09-01,Brasil,Atividade,Refino e biocombustíveis,l12,2026-09,-0.6,setores.csv,-0.6,True
+2026-07-01,Brasil,Atividade,Químicos,mom,2026-09,-0.8,setores.csv,-0.8,True
+2026-08-01,Brasil,Atividade,Químicos,mom,2026-09,0.7,setores.csv,0.7,True
+2026-09-01,Brasil,Atividade,Químicos,mom,2026-09,1.7,setores.csv,1.7,True
+2026-07-01,Brasil,Atividade,Químicos,yoy,2026-09,-7.0,setores.csv,-7.0,True
+2026-08-01,Brasil,Atividade,Químicos,yoy,2026-09,-4.2,setores.csv,-4.2,True
+2026-09-01,Brasil,Atividade,Químicos,yoy,2026-09,-1.8,setores.csv,-1.8,True
+2026-09-01,Brasil,Atividade,Químicos,l12,2026-09,-3.4,setores.csv,-3.4,True
+2026-07-01,Brasil,Atividade,Veículos automotores,mom,2026-09,0.0,setores.csv,0.0,True
+2026-08-01,Brasil,Atividade,Veículos automotores,mom,2026-09,-0.4,setores.csv,-0.4,True
+2026-09-01,Brasil,Atividade,Veículos automotores,mom,2026-09,-1.2,setores.csv,-1.2,True
+2026-07-01,Brasil,Atividade,Veículos automotores,yoy,2026-09,8.1,setores.csv,8.1,True
+2026-08-01,Brasil,Atividade,Veículos automotores,yoy,2026-09,6.9,setores.csv,6.9,True
+2026-09-01,Brasil,Atividade,Veículos automotores,yoy,2026-09,7.3,setores.csv,7.3,True
+2026-09-01,Brasil,Atividade,Veículos automotores,l12,2026-09,2.5,setores.csv,2.5,True
+2026-07-01,Brasil,Atividade,Metalurgia,mom,2026-09,-1.5,setores.csv,-1.5,True
+2026-08-01,Brasil,Atividade,Metalurgia,mom,2026-09,0.5,setores.csv,0.5,True
+2026-09-01,Brasil,Atividade,Metalurgia,mom,2026-09,-0.6,setores.csv,-0.6,True
+2026-07-01,Brasil,Atividade,Metalurgia,yoy,2026-09,1.7,setores.csv,1.7,True
+2026-08-01,Brasil,Atividade,Metalurgia,yoy,2026-09,2.6,setores.csv,2.6,True
+2026-09-01,Brasil,Atividade,Metalurgia,yoy,2026-09,1.9,setores.csv,1.9,True
+2026-09-01,Brasil,Atividade,Metalurgia,l12,2026-09,0.3,setores.csv,0.3,True
+2026-07-01,Brasil,Atividade,Máquinas e equipamentos,mom,2026-09,-1.7,setores.csv,-1.7,True
+2026-08-01,Brasil,Atividade,Máquinas e equipamentos,mom,2026-09,-0.1,setores.csv,-0.1,True
+2026-09-01,Brasil,Atividade,Máquinas e equipamentos,mom,2026-09,-2.1,setores.csv,-2.1,True
+2026-07-01,Brasil,Atividade,Máquinas e equipamentos,yoy,2026-09,-8.2,setores.csv,-8.2,True
+2026-08-01,Brasil,Atividade,Máquinas e equipamentos,yoy,2026-09,-6.8,setores.csv,-6.8,True
+2026-09-01,Brasil,Atividade,Máquinas e equipamentos,yoy,2026-09,-8.9,setores.csv,-8.9,True
+2026-09-01,Brasil,Atividade,Máquinas e equipamentos,l12,2026-09,-5.8,setores.csv,-5.8,True
+2026-07-01,Brasil,Atividade,Celulose e papel,mom,2026-09,-1.9,setores.csv,-1.9,True
+2026-08-01,Brasil,Atividade,Celulose e papel,mom,2026-09,-1.3,setores.csv,-1.3,True
+2026-09-01,Brasil,Atividade,Celulose e papel,mom,2026-09,0.1,setores.csv,0.1,True
+2026-07-01,Brasil,Atividade,Celulose e papel,yoy,2026-09,0.0,setores.csv,0.0,True
+2026-08-01,Brasil,Atividade,Celulose e papel,yoy,2026-09,-2.3,setores.csv,-2.3,True
+2026-09-01,Brasil,Atividade,Celulose e papel,yoy,2026-09,-2.1,setores.csv,-2.1,True
+2026-09-01,Brasil,Atividade,Celulose e papel,l12,2026-09,-1.3,setores.csv,-1.3,True
+2026-07-01,Brasil,Atividade,Borracha e plástico,mom,2026-09,-1.2,setores.csv,-1.2,True
+2026-08-01,Brasil,Atividade,Borracha e plástico,mom,2026-09,-1.9,setores.csv,-1.9,True
+2026-09-01,Brasil,Atividade,Borracha e plástico,mom,2026-09,-0.6,setores.csv,-0.6,True
+2026-07-01,Brasil,Atividade,Borracha e plástico,yoy,2026-09,-2.7,setores.csv,-2.7,True
+2026-08-01,Brasil,Atividade,Borracha e plástico,yoy,2026-09,-4.7,setores.csv,-4.7,True
+2026-09-01,Brasil,Atividade,Borracha e plástico,yoy,2026-09,-6.1,setores.csv,-6.1,True
+2026-09-01,Brasil,Atividade,Borracha e plástico,l12,2026-09,-0.4,setores.csv,-0.4,True
+2026-07-01,Brasil,Atividade,Bebidas,mom,2026-09,1.3,setores.csv,1.3,True
+2026-08-01,Brasil,Atividade,Bebidas,mom,2026-09,0.7,setores.csv,0.7,True
+2026-09-01,Brasil,Atividade,Bebidas,mom,2026-09,-0.7,setores.csv,-0.7,True
+2026-07-01,Brasil,Atividade,Bebidas,yoy,2026-09,5.7,setores.csv,5.7,True
+2026-08-01,Brasil,Atividade,Bebidas,yoy,2026-09,4.4,setores.csv,4.4,True
+2026-09-01,Brasil,Atividade,Bebidas,yoy,2026-09,2.5,setores.csv,2.5,True
+2026-09-01,Brasil,Atividade,Bebidas,l12,2026-09,1.1,setores.csv,1.1,True
+2026-07-01,Brasil,Atividade,Produtos de metal,mom,2026-09,0.9,setores.csv,0.9,True
+2026-08-01,Brasil,Atividade,Produtos de metal,mom,2026-09,-1.7,setores.csv,-1.7,True
+2026-09-01,Brasil,Atividade,Produtos de metal,mom,2026-09,0.9,setores.csv,0.9,True
+2026-07-01,Brasil,Atividade,Produtos de metal,yoy,2026-09,0.4,setores.csv,0.4,True
+2026-08-01,Brasil,Atividade,Produtos de metal,yoy,2026-09,-2.4,setores.csv,-2.4,True
+2026-09-01,Brasil,Atividade,Produtos de metal,yoy,2026-09,-2.3,setores.csv,-2.3,True
+2026-09-01,Brasil,Atividade,Produtos de metal,l12,2026-09,-3.6,setores.csv,-3.6,True
+2026-07-01,Brasil,Atividade,Minerais não metálicos,mom,2026-09,-0.2,setores.csv,-0.2,True
+2026-08-01,Brasil,Atividade,Minerais não metálicos,mom,2026-09,-0.8,setores.csv,-0.8,True
+2026-09-01,Brasil,Atividade,Minerais não metálicos,mom,2026-09,-2.6,setores.csv,-2.6,True
+2026-07-01,Brasil,Atividade,Minerais não metálicos,yoy,2026-09,3.5,setores.csv,3.5,True
+2026-08-01,Brasil,Atividade,Minerais não metálicos,yoy,2026-09,0.9,setores.csv,0.9,True
+2026-09-01,Brasil,Atividade,Minerais não metálicos,yoy,2026-09,-3.3,setores.csv,-3.3,True
+2026-09-01,Brasil,Atividade,Minerais não metálicos,l12,2026-09,0.0,setores.csv,0.0,True
+2026-07-01,Brasil,Atividade,Farmoquímicos e farmacêuticos,mom,2026-09,3.3,setores.csv,3.3,True
+2026-08-01,Brasil,Atividade,Farmoquímicos e farmacêuticos,mom,2026-09,-6.1,setores.csv,-6.1,True
+2026-09-01,Brasil,Atividade,Farmoquímicos e farmacêuticos,mom,2026-09,-3.1,setores.csv,-3.1,True
+2026-07-01,Brasil,Atividade,Farmoquímicos e farmacêuticos,yoy,2026-09,-10.1,setores.csv,-10.1,True
+2026-08-01,Brasil,Atividade,Farmoquímicos e farmacêuticos,yoy,2026-09,-22.4,setores.csv,-22.4,True
+2026-09-01,Brasil,Atividade,Farmoquímicos e farmacêuticos,yoy,2026-09,-17.0,setores.csv,-17.0,True
+2026-09-01,Brasil,Atividade,Farmoquímicos e farmacêuticos,l12,2026-09,1.1,setores.csv,1.1,True
+2026-07-01,Brasil,Atividade,Máquinas e materiais elétricos,mom,2026-09,2.1,setores.csv,2.1,True
+2026-08-01,Brasil,Atividade,Máquinas e materiais elétricos,mom,2026-09,1.3,setores.csv,1.3,True
+2026-09-01,Brasil,Atividade,Máquinas e materiais elétricos,mom,2026-09,-1.7,setores.csv,-1.7,True
+2026-07-01,Brasil,Atividade,Máquinas e materiais elétricos,yoy,2026-09,6.2,setores.csv,6.2,True
+2026-08-01,Brasil,Atividade,Máquinas e materiais elétricos,yoy,2026-09,9.2,setores.csv,9.2,True
+2026-09-01,Brasil,Atividade,Máquinas e materiais elétricos,yoy,2026-09,3.0,setores.csv,3.0,True
+2026-09-01,Brasil,Atividade,Máquinas e materiais elétricos,l12,2026-09,-0.7,setores.csv,-0.7,True
+2026-07-01,Brasil,Atividade,Vestuário,mom,2026-09,2.4,setores.csv,2.4,True
+2026-08-01,Brasil,Atividade,Vestuário,mom,2026-09,-3.7,setores.csv,-3.7,True
+2026-09-01,Brasil,Atividade,Vestuário,mom,2026-09,0.0,setores.csv,0.0,True
+2026-07-01,Brasil,Atividade,Vestuário,yoy,2026-09,-8.2,setores.csv,-8.2,True
+2026-08-01,Brasil,Atividade,Vestuário,yoy,2026-09,-10.9,setores.csv,-10.9,True
+2026-09-01,Brasil,Atividade,Vestuário,yoy,2026-09,-12.2,setores.csv,-12.2,True
+2026-09-01,Brasil,Atividade,Vestuário,l12,2026-09,-6.4,setores.csv,-6.4,True
+2026-07-01,Brasil,Atividade,Informática e eletrônicos,mom,2026-09,11.8,setores.csv,11.8,True
+2026-08-01,Brasil,Atividade,Informática e eletrônicos,mom,2026-09,-4.3,setores.csv,-4.3,True
+2026-09-01,Brasil,Atividade,Informática e eletrônicos,mom,2026-09,-0.6,setores.csv,-0.6,True
+2026-07-01,Brasil,Atividade,Informática e eletrônicos,yoy,2026-09,-2.4,setores.csv,-2.4,True
+2026-08-01,Brasil,Atividade,Informática e eletrônicos,yoy,2026-09,-6.0,setores.csv,-6.0,True
+2026-09-01,Brasil,Atividade,Informática e eletrônicos,yoy,2026-09,-9.0,setores.csv,-9.0,True
+2026-09-01,Brasil,Atividade,Informática e eletrônicos,l12,2026-09,-5.2,setores.csv,-5.2,True
+2026-07-01,Brasil,Atividade,Manutenção de máquinas,mom,2026-09,1.1,setores.csv,1.1,True
+2026-08-01,Brasil,Atividade,Manutenção de máquinas,mom,2026-09,1.7,setores.csv,1.7,True
+2026-09-01,Brasil,Atividade,Manutenção de máquinas,mom,2026-09,1.6,setores.csv,1.6,True
+2026-07-01,Brasil,Atividade,Manutenção de máquinas,yoy,2026-09,2.6,setores.csv,2.6,True
+2026-08-01,Brasil,Atividade,Manutenção de máquinas,yoy,2026-09,5.3,setores.csv,5.3,True
+2026-09-01,Brasil,Atividade,Manutenção de máquinas,yoy,2026-09,4.9,setores.csv,4.9,True
+2026-09-01,Brasil,Atividade,Manutenção de máquinas,l12,2026-09,3.9,setores.csv,3.9,True
+2026-07-01,Brasil,Atividade,Couros e calçados,mom,2026-09,-1.0,setores.csv,-1.0,True
+2026-08-01,Brasil,Atividade,Couros e calçados,mom,2026-09,-1.3,setores.csv,-1.3,True
+2026-09-01,Brasil,Atividade,Couros e calçados,mom,2026-09,-2.3,setores.csv,-2.3,True
+2026-07-01,Brasil,Atividade,Couros e calçados,yoy,2026-09,-3.4,setores.csv,-3.4,True
+2026-08-01,Brasil,Atividade,Couros e calçados,yoy,2026-09,-4.0,setores.csv,-4.0,True
+2026-09-01,Brasil,Atividade,Couros e calçados,yoy,2026-09,-6.6,setores.csv,-6.6,True
+2026-09-01,Brasil,Atividade,Couros e calçados,l12,2026-09,-4.5,setores.csv,-4.5,True
+2026-07-01,Brasil,Atividade,Têxteis,mom,2026-09,0.2,setores.csv,0.2,True
+2026-08-01,Brasil,Atividade,Têxteis,mom,2026-09,-0.7,setores.csv,-0.7,True
+2026-09-01,Brasil,Atividade,Têxteis,mom,2026-09,-1.5,setores.csv,-1.5,True
+2026-07-01,Brasil,Atividade,Têxteis,yoy,2026-09,-6.8,setores.csv,-6.8,True
+2026-08-01,Brasil,Atividade,Têxteis,yoy,2026-09,-6.1,setores.csv,-6.1,True
+2026-09-01,Brasil,Atividade,Têxteis,yoy,2026-09,-7.4,setores.csv,-7.4,True
+2026-09-01,Brasil,Atividade,Têxteis,l12,2026-09,-4.0,setores.csv,-4.0,True
+2026-07-01,Brasil,Atividade,Produtos diversos,mom,2026-09,-11.8,setores.csv,-11.8,True
+2026-08-01,Brasil,Atividade,Produtos diversos,mom,2026-09,8.4,setores.csv,8.4,True
+2026-09-01,Brasil,Atividade,Produtos diversos,mom,2026-09,-1.4,setores.csv,-1.4,True
+2026-07-01,Brasil,Atividade,Produtos diversos,yoy,2026-09,-14.2,setores.csv,-14.2,True
+2026-08-01,Brasil,Atividade,Produtos diversos,yoy,2026-09,-11.8,setores.csv,-11.8,True
+2026-09-01,Brasil,Atividade,Produtos diversos,yoy,2026-09,-9.2,setores.csv,-9.2,True
+2026-09-01,Brasil,Atividade,Produtos diversos,l12,2026-09,-0.5,setores.csv,-0.5,True
+2026-07-01,Brasil,Atividade,Outros equipamentos de transporte,mom,2026-09,11.1,setores.csv,11.1,True
+2026-08-01,Brasil,Atividade,Outros equipamentos de transporte,mom,2026-09,-2.9,setores.csv,-2.9,True
+2026-09-01,Brasil,Atividade,Outros equipamentos de transporte,mom,2026-09,0.0,setores.csv,0.0,True
+2026-07-01,Brasil,Atividade,Outros equipamentos de transporte,yoy,2026-09,1.5,setores.csv,1.5,True
+2026-08-01,Brasil,Atividade,Outros equipamentos de transporte,yoy,2026-09,-5.3,setores.csv,-5.3,True
+2026-09-01,Brasil,Atividade,Outros equipamentos de transporte,yoy,2026-09,-4.0,setores.csv,-4.0,True
+2026-09-01,Brasil,Atividade,Outros equipamentos de transporte,l12,2026-09,-1.7,setores.csv,-1.7,True
+2026-07-01,Brasil,Atividade,Móveis,mom,2026-09,0.9,setores.csv,0.9,True
+2026-08-01,Brasil,Atividade,Móveis,mom,2026-09,-1.5,setores.csv,-1.5,True
+2026-09-01,Brasil,Atividade,Móveis,mom,2026-09,-3.4,setores.csv,-3.4,True
+2026-07-01,Brasil,Atividade,Móveis,yoy,2026-09,-4.1,setores.csv,-4.1,True
+2026-08-01,Brasil,Atividade,Móveis,yoy,2026-09,-4.6,setores.csv,-4.6,True
+2026-09-01,Brasil,Atividade,Móveis,yoy,2026-09,-8.6,setores.csv,-8.6,True
+2026-09-01,Brasil,Atividade,Móveis,l12,2026-09,-3.3,setores.csv,-3.3,True
+2026-07-01,Brasil,Atividade,Madeira,mom,2026-09,0.2,setores.csv,0.2,True
+2026-08-01,Brasil,Atividade,Madeira,mom,2026-09,-0.7,setores.csv,-0.7,True
+2026-09-01,Brasil,Atividade,Madeira,mom,2026-09,-0.2,setores.csv,-0.2,True
+2026-07-01,Brasil,Atividade,Madeira,yoy,2026-09,-0.3,setores.csv,-0.3,True
+2026-08-01,Brasil,Atividade,Madeira,yoy,2026-09,11.3,setores.csv,11.3,True
+2026-09-01,Brasil,Atividade,Madeira,yoy,2026-09,2.5,setores.csv,2.5,True
+2026-09-01,Brasil,Atividade,Madeira,l12,2026-09,-3.3,setores.csv,-3.3,True
+2026-07-01,Brasil,Atividade,Impressão,mom,2026-09,-17.4,setores.csv,-17.4,True
+2026-08-01,Brasil,Atividade,Impressão,mom,2026-09,1.9,setores.csv,1.9,True
+2026-09-01,Brasil,Atividade,Impressão,mom,2026-09,-6.3,setores.csv,-6.3,True
+2026-07-01,Brasil,Atividade,Impressão,yoy,2026-09,0.6,setores.csv,0.6,True
+2026-08-01,Brasil,Atividade,Impressão,yoy,2026-09,-16.5,setores.csv,-16.5,True
+2026-09-01,Brasil,Atividade,Impressão,yoy,2026-09,-30.9,setores.csv,-30.9,True
+2026-09-01,Brasil,Atividade,Impressão,l12,2026-09,-9.9,setores.csv,-9.9,True
+2026-07-01,Brasil,Atividade,Fumo,mom,2026-09,16.3,setores.csv,16.3,True
+2026-08-01,Brasil,Atividade,Fumo,mom,2026-09,-25.9,setores.csv,-25.9,True
+2026-09-01,Brasil,Atividade,Fumo,mom,2026-09,20.3,setores.csv,20.3,True
+2026-07-01,Brasil,Atividade,Fumo,yoy,2026-09,23.6,setores.csv,23.6,True
+2026-08-01,Brasil,Atividade,Fumo,yoy,2026-09,-18.9,setores.csv,-18.9,True
+2026-09-01,Brasil,Atividade,Fumo,yoy,2026-09,-4.7,setores.csv,-4.7,True
+2026-09-01,Brasil,Atividade,Fumo,l12,2026-09,1.4,setores.csv,1.4,True
