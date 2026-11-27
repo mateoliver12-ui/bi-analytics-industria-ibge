@@ -1,0 +1,506 @@
+[
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8888/metadados",
+    "arquivo": "8888_meta.json",
+    "sha256": "e58545c7f4d4d787be545fcd104dcea2685388946d4dc0e47a9b9f6a34646b47",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8888/periodos",
+    "arquivo": "8888_2022_periodos.json",
+    "sha256": "c29350e1dcc631b2d7b2dbfccab0e0b27a716728adcd87f645b4967b6c4d559b",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8888/periodos/202201%7C202202%7C202203%7C202204%7C202205%7C202206%7C202207%7C202208%7C202209%7C202210%7C202211%7C202212/variaveis/12606?localidades=N1%5Ball%5D&classificacao=544%5Ball%5D",
+    "arquivo": "8888_2022_12606.json",
+    "sha256": "e959b37b93271e6ce3a88cb4945dbab51d6b77f907548be6394be832b722716f",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8888/periodos/202201%7C202202%7C202203%7C202204%7C202205%7C202206%7C202207%7C202208%7C202209%7C202210%7C202211%7C202212/variaveis/12607?localidades=N1%5Ball%5D&classificacao=544%5Ball%5D",
+    "arquivo": "8888_2022_12607.json",
+    "sha256": "c79e614386027a566621425670b97ee25a7dbadc1d7ca3ae4ebcd86661617014",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8888/periodos/202201%7C202202%7C202203%7C202204%7C202205%7C202206%7C202207%7C202208%7C202209%7C202210%7C202211%7C202212/variaveis/11601?localidades=N1%5Ball%5D&classificacao=544%5Ball%5D",
+    "arquivo": "8888_2022_11601.json",
+    "sha256": "433ced279a08ccdf11cd9d2038d026a7ecbfca5971e077baceb84a3c21addcc8",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8888/periodos/202201%7C202202%7C202203%7C202204%7C202205%7C202206%7C202207%7C202208%7C202209%7C202210%7C202211%7C202212/variaveis/11602?localidades=N1%5Ball%5D&classificacao=544%5Ball%5D",
+    "arquivo": "8888_2022_11602.json",
+    "sha256": "6d89871483c8e4e3cf978ba5a5564d6c9eaf96bf0ae1944c98f315709ac503fb",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8888/periodos/202201%7C202202%7C202203%7C202204%7C202205%7C202206%7C202207%7C202208%7C202209%7C202210%7C202211%7C202212/variaveis/11603?localidades=N1%5Ball%5D&classificacao=544%5Ball%5D",
+    "arquivo": "8888_2022_11603.json",
+    "sha256": "bb0cbd6b4fa0a7cfb47c7bb85703d6d33584e7a408bbf8730d10cb03161ec9c4",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8888/periodos/202201%7C202202%7C202203%7C202204%7C202205%7C202206%7C202207%7C202208%7C202209%7C202210%7C202211%7C202212/variaveis/11604?localidades=N1%5Ball%5D&classificacao=544%5Ball%5D",
+    "arquivo": "8888_2022_11604.json",
+    "sha256": "5a4b4d08b841eeb050664aac6d24f7cc9ab74fab2a1a7a1f635bb501529e02b1",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8888/periodos",
+    "arquivo": "8888_2023_periodos.json",
+    "sha256": "c29350e1dcc631b2d7b2dbfccab0e0b27a716728adcd87f645b4967b6c4d559b",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8888/periodos/202301%7C202302%7C202303%7C202304%7C202305%7C202306%7C202307%7C202308%7C202309%7C202310%7C202311%7C202312/variaveis/12606?localidades=N1%5Ball%5D&classificacao=544%5Ball%5D",
+    "arquivo": "8888_2023_12606.json",
+    "sha256": "556aa7c48073c415ae697e3d639bf56edd6d0c096917d372666a3cfb0d5e8e1a",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8888/periodos/202301%7C202302%7C202303%7C202304%7C202305%7C202306%7C202307%7C202308%7C202309%7C202310%7C202311%7C202312/variaveis/12607?localidades=N1%5Ball%5D&classificacao=544%5Ball%5D",
+    "arquivo": "8888_2023_12607.json",
+    "sha256": "e20bd9d1a1eb02489589cbec597f595074fb5f486fd874de01ff8040487f680d",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8888/periodos/202301%7C202302%7C202303%7C202304%7C202305%7C202306%7C202307%7C202308%7C202309%7C202310%7C202311%7C202312/variaveis/11601?localidades=N1%5Ball%5D&classificacao=544%5Ball%5D",
+    "arquivo": "8888_2023_11601.json",
+    "sha256": "08565e25ac2d5a9f06c004770efa7b39a8d1cc00ddcd21f231b761f2b713135f",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8888/periodos/202301%7C202302%7C202303%7C202304%7C202305%7C202306%7C202307%7C202308%7C202309%7C202310%7C202311%7C202312/variaveis/11602?localidades=N1%5Ball%5D&classificacao=544%5Ball%5D",
+    "arquivo": "8888_2023_11602.json",
+    "sha256": "01c6af6032b05ab4a8d45e2fd95edd343dc5e2ee4fff4c58c8466c5b8c284d36",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8888/periodos/202301%7C202302%7C202303%7C202304%7C202305%7C202306%7C202307%7C202308%7C202309%7C202310%7C202311%7C202312/variaveis/11603?localidades=N1%5Ball%5D&classificacao=544%5Ball%5D",
+    "arquivo": "8888_2023_11603.json",
+    "sha256": "107370d1192cd3c6b4ff16a63480ef83748c20bc87af35e4f24649ecca5b62a9",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8888/periodos/202301%7C202302%7C202303%7C202304%7C202305%7C202306%7C202307%7C202308%7C202309%7C202310%7C202311%7C202312/variaveis/11604?localidades=N1%5Ball%5D&classificacao=544%5Ball%5D",
+    "arquivo": "8888_2023_11604.json",
+    "sha256": "f62b9a9cb6595c5e2b0645683e1efbb0c4fe9709c48638ef112eafb2f0a3d122",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8888/periodos",
+    "arquivo": "8888_2024_periodos.json",
+    "sha256": "c29350e1dcc631b2d7b2dbfccab0e0b27a716728adcd87f645b4967b6c4d559b",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8888/periodos/202401%7C202402%7C202403%7C202404%7C202405%7C202406%7C202407%7C202408%7C202409%7C202410%7C202411%7C202412/variaveis/12606?localidades=N1%5Ball%5D&classificacao=544%5Ball%5D",
+    "arquivo": "8888_2024_12606.json",
+    "sha256": "6a416bbca63e24903e90d24ac59e82399ffdecfd5995e6e534406a13858425b7",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8888/periodos/202401%7C202402%7C202403%7C202404%7C202405%7C202406%7C202407%7C202408%7C202409%7C202410%7C202411%7C202412/variaveis/12607?localidades=N1%5Ball%5D&classificacao=544%5Ball%5D",
+    "arquivo": "8888_2024_12607.json",
+    "sha256": "8898d7a156103f50a5ae04eee29766923370306cecca91c0cecb11b094ccf2b5",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8888/periodos/202401%7C202402%7C202403%7C202404%7C202405%7C202406%7C202407%7C202408%7C202409%7C202410%7C202411%7C202412/variaveis/11601?localidades=N1%5Ball%5D&classificacao=544%5Ball%5D",
+    "arquivo": "8888_2024_11601.json",
+    "sha256": "25af1d2ba394c13a2ef4e8468c6f61d437a48380ec8cdc9c0e8d95cab0347408",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8888/periodos/202401%7C202402%7C202403%7C202404%7C202405%7C202406%7C202407%7C202408%7C202409%7C202410%7C202411%7C202412/variaveis/11602?localidades=N1%5Ball%5D&classificacao=544%5Ball%5D",
+    "arquivo": "8888_2024_11602.json",
+    "sha256": "74cb1f50f0fdec1cc15c1fc7a1875b7294fdb13bb9cb95ba57f279d6c1ed8f0c",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8888/periodos/202401%7C202402%7C202403%7C202404%7C202405%7C202406%7C202407%7C202408%7C202409%7C202410%7C202411%7C202412/variaveis/11603?localidades=N1%5Ball%5D&classificacao=544%5Ball%5D",
+    "arquivo": "8888_2024_11603.json",
+    "sha256": "904afec5bbce96c861aeafc7bb48b4fabd03e3db666a99d0439b9beb55e638cc",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8888/periodos/202401%7C202402%7C202403%7C202404%7C202405%7C202406%7C202407%7C202408%7C202409%7C202410%7C202411%7C202412/variaveis/11604?localidades=N1%5Ball%5D&classificacao=544%5Ball%5D",
+    "arquivo": "8888_2024_11604.json",
+    "sha256": "b02da25cb823d3dc5a349ae7f15a9fa61eaa0aca1dd6995a3102a48eab793c26",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8888/periodos",
+    "arquivo": "8888_2025_periodos.json",
+    "sha256": "c29350e1dcc631b2d7b2dbfccab0e0b27a716728adcd87f645b4967b6c4d559b",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8888/periodos/202501%7C202502%7C202503%7C202504%7C202505%7C202506%7C202507%7C202508%7C202509%7C202510%7C202511%7C202512/variaveis/12606?localidades=N1%5Ball%5D&classificacao=544%5Ball%5D",
+    "arquivo": "8888_2025_12606.json",
+    "sha256": "f60e4ad8f99ed5b5311ddec76cb670004da632dc8a4eab7fdfbd51f79cc0d3f4",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8888/periodos/202501%7C202502%7C202503%7C202504%7C202505%7C202506%7C202507%7C202508%7C202509%7C202510%7C202511%7C202512/variaveis/12607?localidades=N1%5Ball%5D&classificacao=544%5Ball%5D",
+    "arquivo": "8888_2025_12607.json",
+    "sha256": "91b0924be51776309f2a52f2d240542f9ad895f59957de2c9dfccee817725995",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8888/periodos/202501%7C202502%7C202503%7C202504%7C202505%7C202506%7C202507%7C202508%7C202509%7C202510%7C202511%7C202512/variaveis/11601?localidades=N1%5Ball%5D&classificacao=544%5Ball%5D",
+    "arquivo": "8888_2025_11601.json",
+    "sha256": "01e12fa12ef9b8e5254b58f5c2ef848e4b6b1609f4eefcae7227bf78a2ba67d6",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8888/periodos/202501%7C202502%7C202503%7C202504%7C202505%7C202506%7C202507%7C202508%7C202509%7C202510%7C202511%7C202512/variaveis/11602?localidades=N1%5Ball%5D&classificacao=544%5Ball%5D",
+    "arquivo": "8888_2025_11602.json",
+    "sha256": "8170c20543481f6ca4d7dcab6ed53040925688623eff4b515c190ce045ab8b83",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8888/periodos/202501%7C202502%7C202503%7C202504%7C202505%7C202506%7C202507%7C202508%7C202509%7C202510%7C202511%7C202512/variaveis/11603?localidades=N1%5Ball%5D&classificacao=544%5Ball%5D",
+    "arquivo": "8888_2025_11603.json",
+    "sha256": "54ed31916ddf77797e03dc130c5e51b4ca7889f8027edb33970af19e58709262",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8888/periodos/202501%7C202502%7C202503%7C202504%7C202505%7C202506%7C202507%7C202508%7C202509%7C202510%7C202511%7C202512/variaveis/11604?localidades=N1%5Ball%5D&classificacao=544%5Ball%5D",
+    "arquivo": "8888_2025_11604.json",
+    "sha256": "cd651c75988e39a2e2e3c3131b9fae175ff02b62289809989cbbe44970079977",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8888/periodos",
+    "arquivo": "8888_2026_periodos.json",
+    "sha256": "c29350e1dcc631b2d7b2dbfccab0e0b27a716728adcd87f645b4967b6c4d559b",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8888/periodos/202601%7C202602%7C202603%7C202604%7C202605%7C202606%7C202607%7C202608%7C202609/variaveis/12606?localidades=N1%5Ball%5D&classificacao=544%5Ball%5D",
+    "arquivo": "8888_2026_12606.json",
+    "sha256": "1a998731342201a454cf267ec5d012ff6fa5f6cc8fec8efede54951f3ea38c12",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8888/periodos/202601%7C202602%7C202603%7C202604%7C202605%7C202606%7C202607%7C202608%7C202609/variaveis/12607?localidades=N1%5Ball%5D&classificacao=544%5Ball%5D",
+    "arquivo": "8888_2026_12607.json",
+    "sha256": "81a25767b047451c69938e63b020491335c2b137c6ba2f8a82f70b02b22a2713",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8888/periodos/202601%7C202602%7C202603%7C202604%7C202605%7C202606%7C202607%7C202608%7C202609/variaveis/11601?localidades=N1%5Ball%5D&classificacao=544%5Ball%5D",
+    "arquivo": "8888_2026_11601.json",
+    "sha256": "6bb05d7575ae740d67ff2f5bb9fd74b586ef083bad31ae2e092f5b58de27da78",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8888/periodos/202601%7C202602%7C202603%7C202604%7C202605%7C202606%7C202607%7C202608%7C202609/variaveis/11602?localidades=N1%5Ball%5D&classificacao=544%5Ball%5D",
+    "arquivo": "8888_2026_11602.json",
+    "sha256": "16c8a8966c87b6b58b7dbb53e12b13b82ad90f18f92962e74a9d6260de2f5eb6",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8888/periodos/202601%7C202602%7C202603%7C202604%7C202605%7C202606%7C202607%7C202608%7C202609/variaveis/11603?localidades=N1%5Ball%5D&classificacao=544%5Ball%5D",
+    "arquivo": "8888_2026_11603.json",
+    "sha256": "9c7a4eb8baeacd3a00bba377208df0406454ef0d0f742641bf3348e0677013bb",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8888/periodos/202601%7C202602%7C202603%7C202604%7C202605%7C202606%7C202607%7C202608%7C202609/variaveis/11604?localidades=N1%5Ball%5D&classificacao=544%5Ball%5D",
+    "arquivo": "8888_2026_11604.json",
+    "sha256": "ee716714dd4a5d1fcb02f22a939ad7740824f21d28ac4d27a457d3213ed044aa",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8887/metadados",
+    "arquivo": "8887_meta.json",
+    "sha256": "3095b69b05b06cbef2fe58af45ff0ffa37216af159c3b618eebd443e8ebb05f0",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8887/periodos",
+    "arquivo": "8887_2022_periodos.json",
+    "sha256": "53bf52afaf8d023dbd58676c786de374e766755661a7ae2af3728a30590231cd",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8887/periodos/202201%7C202202%7C202203%7C202204%7C202205%7C202206%7C202207%7C202208%7C202209%7C202210%7C202211%7C202212/variaveis/12606?localidades=N1%5Ball%5D&classificacao=543%5Ball%5D",
+    "arquivo": "8887_2022_12606.json",
+    "sha256": "6b81598dfa1f4482796373abb59600bbe45f15f137bd26393468a25176805b9a",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8887/periodos/202201%7C202202%7C202203%7C202204%7C202205%7C202206%7C202207%7C202208%7C202209%7C202210%7C202211%7C202212/variaveis/12607?localidades=N1%5Ball%5D&classificacao=543%5Ball%5D",
+    "arquivo": "8887_2022_12607.json",
+    "sha256": "db8c62febdf7e4bfee4debcc6c8163aaf3ae25a81bb4f0dbc541d596e72b7f12",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8887/periodos/202201%7C202202%7C202203%7C202204%7C202205%7C202206%7C202207%7C202208%7C202209%7C202210%7C202211%7C202212/variaveis/11601?localidades=N1%5Ball%5D&classificacao=543%5Ball%5D",
+    "arquivo": "8887_2022_11601.json",
+    "sha256": "e6d534038d2e005cf5bccb1be11555a11604d150e8611a85d13424191a087c54",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8887/periodos/202201%7C202202%7C202203%7C202204%7C202205%7C202206%7C202207%7C202208%7C202209%7C202210%7C202211%7C202212/variaveis/11602?localidades=N1%5Ball%5D&classificacao=543%5Ball%5D",
+    "arquivo": "8887_2022_11602.json",
+    "sha256": "6bffea1a16da4e86443ba0a898c4975b765bb24b088b6fec1b4683a7ada6d048",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8887/periodos/202201%7C202202%7C202203%7C202204%7C202205%7C202206%7C202207%7C202208%7C202209%7C202210%7C202211%7C202212/variaveis/11603?localidades=N1%5Ball%5D&classificacao=543%5Ball%5D",
+    "arquivo": "8887_2022_11603.json",
+    "sha256": "8360ea4067ee2181bc669ce0550aab0922c6eafa013482231e7b2a7d24e27b88",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8887/periodos/202201%7C202202%7C202203%7C202204%7C202205%7C202206%7C202207%7C202208%7C202209%7C202210%7C202211%7C202212/variaveis/11604?localidades=N1%5Ball%5D&classificacao=543%5Ball%5D",
+    "arquivo": "8887_2022_11604.json",
+    "sha256": "33bb579fb5e0c35a82e63aaf585c6dfec26c79d363560f2ef2b80c950daf243f",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8887/periodos",
+    "arquivo": "8887_2023_periodos.json",
+    "sha256": "53bf52afaf8d023dbd58676c786de374e766755661a7ae2af3728a30590231cd",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8887/periodos/202301%7C202302%7C202303%7C202304%7C202305%7C202306%7C202307%7C202308%7C202309%7C202310%7C202311%7C202312/variaveis/12606?localidades=N1%5Ball%5D&classificacao=543%5Ball%5D",
+    "arquivo": "8887_2023_12606.json",
+    "sha256": "d48bc96e39e86b7323d9b12dba309a4c24d3ff41d11e7450bee77a1829e7f22a",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8887/periodos/202301%7C202302%7C202303%7C202304%7C202305%7C202306%7C202307%7C202308%7C202309%7C202310%7C202311%7C202312/variaveis/12607?localidades=N1%5Ball%5D&classificacao=543%5Ball%5D",
+    "arquivo": "8887_2023_12607.json",
+    "sha256": "0770b3f2210c6b40396363adc74cd4cf2e8588b3e50dd59ffe10b9129dfb4e4e",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8887/periodos/202301%7C202302%7C202303%7C202304%7C202305%7C202306%7C202307%7C202308%7C202309%7C202310%7C202311%7C202312/variaveis/11601?localidades=N1%5Ball%5D&classificacao=543%5Ball%5D",
+    "arquivo": "8887_2023_11601.json",
+    "sha256": "aed1a7deedb159d7ad4b0185ed9486fd6459a16923112b1820043423a57cc36f",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8887/periodos/202301%7C202302%7C202303%7C202304%7C202305%7C202306%7C202307%7C202308%7C202309%7C202310%7C202311%7C202312/variaveis/11602?localidades=N1%5Ball%5D&classificacao=543%5Ball%5D",
+    "arquivo": "8887_2023_11602.json",
+    "sha256": "24aa49d12008e1f630a24b1612589a59284824ebbe10be983463e0ee4c104c77",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8887/periodos/202301%7C202302%7C202303%7C202304%7C202305%7C202306%7C202307%7C202308%7C202309%7C202310%7C202311%7C202312/variaveis/11603?localidades=N1%5Ball%5D&classificacao=543%5Ball%5D",
+    "arquivo": "8887_2023_11603.json",
+    "sha256": "f9f9771ed2de23ae3625f20285fcc154da7cf1454e5fdec103ed6c7460603549",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8887/periodos/202301%7C202302%7C202303%7C202304%7C202305%7C202306%7C202307%7C202308%7C202309%7C202310%7C202311%7C202312/variaveis/11604?localidades=N1%5Ball%5D&classificacao=543%5Ball%5D",
+    "arquivo": "8887_2023_11604.json",
+    "sha256": "1fb7bcadea0a1a4891d608c8b2f4f86cb133bd9d5fcd498886689f74c4f4169c",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8887/periodos",
+    "arquivo": "8887_2024_periodos.json",
+    "sha256": "53bf52afaf8d023dbd58676c786de374e766755661a7ae2af3728a30590231cd",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8887/periodos/202401%7C202402%7C202403%7C202404%7C202405%7C202406%7C202407%7C202408%7C202409%7C202410%7C202411%7C202412/variaveis/12606?localidades=N1%5Ball%5D&classificacao=543%5Ball%5D",
+    "arquivo": "8887_2024_12606.json",
+    "sha256": "b12dd2040bfd7d6af95995638a9a5f9d9908f0a19a2799e1d1535f6d6b2b2bc4",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8887/periodos/202401%7C202402%7C202403%7C202404%7C202405%7C202406%7C202407%7C202408%7C202409%7C202410%7C202411%7C202412/variaveis/12607?localidades=N1%5Ball%5D&classificacao=543%5Ball%5D",
+    "arquivo": "8887_2024_12607.json",
+    "sha256": "29295057996f04d5461fab95a6ad630d01b2fa77b054d8cc10b6e3c7c2680666",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8887/periodos/202401%7C202402%7C202403%7C202404%7C202405%7C202406%7C202407%7C202408%7C202409%7C202410%7C202411%7C202412/variaveis/11601?localidades=N1%5Ball%5D&classificacao=543%5Ball%5D",
+    "arquivo": "8887_2024_11601.json",
+    "sha256": "262a3f23f35e4af678a3da60373070f30741cb2dc787d24201cb227507d00ab7",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8887/periodos/202401%7C202402%7C202403%7C202404%7C202405%7C202406%7C202407%7C202408%7C202409%7C202410%7C202411%7C202412/variaveis/11602?localidades=N1%5Ball%5D&classificacao=543%5Ball%5D",
+    "arquivo": "8887_2024_11602.json",
+    "sha256": "f9c192bccb60f0e27ca1942b1e531582ccd5da03599ef68fa836e505824ff39b",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8887/periodos/202401%7C202402%7C202403%7C202404%7C202405%7C202406%7C202407%7C202408%7C202409%7C202410%7C202411%7C202412/variaveis/11603?localidades=N1%5Ball%5D&classificacao=543%5Ball%5D",
+    "arquivo": "8887_2024_11603.json",
+    "sha256": "c060461af94b8ed17f724cd5b7ec49f0dec0e5da74c170a655f92ca8c25a1d21",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8887/periodos/202401%7C202402%7C202403%7C202404%7C202405%7C202406%7C202407%7C202408%7C202409%7C202410%7C202411%7C202412/variaveis/11604?localidades=N1%5Ball%5D&classificacao=543%5Ball%5D",
+    "arquivo": "8887_2024_11604.json",
+    "sha256": "fbb05694cc5cff102d24586b61e95f4a4cf5ffbf8caa8590c65f1c2c12b5feae",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8887/periodos",
+    "arquivo": "8887_2025_periodos.json",
+    "sha256": "53bf52afaf8d023dbd58676c786de374e766755661a7ae2af3728a30590231cd",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8887/periodos/202501%7C202502%7C202503%7C202504%7C202505%7C202506%7C202507%7C202508%7C202509%7C202510%7C202511%7C202512/variaveis/12606?localidades=N1%5Ball%5D&classificacao=543%5Ball%5D",
+    "arquivo": "8887_2025_12606.json",
+    "sha256": "a71526957b4bf0514d71f47c70f04e80480e7b113e31fe78df5653fec160ec1b",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8887/periodos/202501%7C202502%7C202503%7C202504%7C202505%7C202506%7C202507%7C202508%7C202509%7C202510%7C202511%7C202512/variaveis/12607?localidades=N1%5Ball%5D&classificacao=543%5Ball%5D",
+    "arquivo": "8887_2025_12607.json",
+    "sha256": "9ae40e1c1ad0bfad2201d3100ae33e878ef6a45b502f357799abc147af3260db",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8887/periodos/202501%7C202502%7C202503%7C202504%7C202505%7C202506%7C202507%7C202508%7C202509%7C202510%7C202511%7C202512/variaveis/11601?localidades=N1%5Ball%5D&classificacao=543%5Ball%5D",
+    "arquivo": "8887_2025_11601.json",
+    "sha256": "21b022bfdea8370ec34701f223310ce9fb8d8d486f86dbb639609405bb739e90",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8887/periodos/202501%7C202502%7C202503%7C202504%7C202505%7C202506%7C202507%7C202508%7C202509%7C202510%7C202511%7C202512/variaveis/11602?localidades=N1%5Ball%5D&classificacao=543%5Ball%5D",
+    "arquivo": "8887_2025_11602.json",
+    "sha256": "0aea4f1b3f59bf569b00af32fa0b6c57299127a53485b8385ed53cc3f85fbd4f",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8887/periodos/202501%7C202502%7C202503%7C202504%7C202505%7C202506%7C202507%7C202508%7C202509%7C202510%7C202511%7C202512/variaveis/11603?localidades=N1%5Ball%5D&classificacao=543%5Ball%5D",
+    "arquivo": "8887_2025_11603.json",
+    "sha256": "5d4492e59489ea3f6bb801f9e00ba3a7401d39c1aeb9c08aae39f11e02720cb0",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8887/periodos/202501%7C202502%7C202503%7C202504%7C202505%7C202506%7C202507%7C202508%7C202509%7C202510%7C202511%7C202512/variaveis/11604?localidades=N1%5Ball%5D&classificacao=543%5Ball%5D",
+    "arquivo": "8887_2025_11604.json",
+    "sha256": "98dbbb3b2631a17dc85671099cffe9657692d98450d8c70b38a24f6296a1750d",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8887/periodos",
+    "arquivo": "8887_2026_periodos.json",
+    "sha256": "53bf52afaf8d023dbd58676c786de374e766755661a7ae2af3728a30590231cd",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8887/periodos/202601%7C202602%7C202603%7C202604%7C202605%7C202606%7C202607%7C202608%7C202609/variaveis/12606?localidades=N1%5Ball%5D&classificacao=543%5Ball%5D",
+    "arquivo": "8887_2026_12606.json",
+    "sha256": "d34a43a98b2384449d80e9b1d6bea64f3a2071db14a45c125671eb895d1fe5d7",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8887/periodos/202601%7C202602%7C202603%7C202604%7C202605%7C202606%7C202607%7C202608%7C202609/variaveis/12607?localidades=N1%5Ball%5D&classificacao=543%5Ball%5D",
+    "arquivo": "8887_2026_12607.json",
+    "sha256": "b9026510663a650f01075761cc8351ecd5e1c791ebcc88b0f09365cf04ed8c19",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8887/periodos/202601%7C202602%7C202603%7C202604%7C202605%7C202606%7C202607%7C202608%7C202609/variaveis/11601?localidades=N1%5Ball%5D&classificacao=543%5Ball%5D",
+    "arquivo": "8887_2026_11601.json",
+    "sha256": "70e31013bba8e7e0c97f7bf667b6060635a452f4af26c3f41e0225f840a2f403",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8887/periodos/202601%7C202602%7C202603%7C202604%7C202605%7C202606%7C202607%7C202608%7C202609/variaveis/11602?localidades=N1%5Ball%5D&classificacao=543%5Ball%5D",
+    "arquivo": "8887_2026_11602.json",
+    "sha256": "06ca751a667b91fc701d1122e85a45a97bb080752a2e1e03f47971d1418ea444",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8887/periodos/202601%7C202602%7C202603%7C202604%7C202605%7C202606%7C202607%7C202608%7C202609/variaveis/11603?localidades=N1%5Ball%5D&classificacao=543%5Ball%5D",
+    "arquivo": "8887_2026_11603.json",
+    "sha256": "405a05bb0d5266bc73e985972eb5731a2538000c72d13fb4b4d978f0a8925bcb",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8887/periodos/202601%7C202602%7C202603%7C202604%7C202605%7C202606%7C202607%7C202608%7C202609/variaveis/11604?localidades=N1%5Ball%5D&classificacao=543%5Ball%5D",
+    "arquivo": "8887_2026_11604.json",
+    "sha256": "5075790ed0e65e6318f9a5b41fde2237f2282f2973bb687f5e2b5e3c05c6c265",
+    "extraido_utc": "20261127T010455230418Z",
+    "divulgacao": null
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8888/metadados",
+    "arquivo": "8888_meta.json",
+    "sha256": "e58545c7f4d4d787be545fcd104dcea2685388946d4dc0e47a9b9f6a34646b47",
+    "extraido_utc": "20261127T010233165300Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8888/periodos",
+    "arquivo": "8888_2026_periodos.json",
+    "sha256": "c29350e1dcc631b2d7b2dbfccab0e0b27a716728adcd87f645b4967b6c4d559b",
+    "extraido_utc": "20261127T010233165300Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8888/periodos/202601%7C202602%7C202603%7C202604%7C202605%7C202606%7C202607%7C202608%7C202609/variaveis/12606?localidades=N1%5Ball%5D&classificacao=544%5Ball%5D",
+    "arquivo": "8888_2026_12606.json",
+    "sha256": "1a998731342201a454cf267ec5d012ff6fa5f6cc8fec8efede54951f3ea38c12",
+    "extraido_utc": "20261127T010233165300Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8888/periodos/202601%7C202602%7C202603%7C202604%7C202605%7C202606%7C202607%7C202608%7C202609/variaveis/12607?localidades=N1%5Ball%5D&classificacao=544%5Ball%5D",
+    "arquivo": "8888_2026_12607.json",
+    "sha256": "81a25767b047451c69938e63b020491335c2b137c6ba2f8a82f70b02b22a2713",
+    "extraido_utc": "20261127T010233165300Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8888/periodos/202601%7C202602%7C202603%7C202604%7C202605%7C202606%7C202607%7C202608%7C202609/variaveis/11601?localidades=N1%5Ball%5D&classificacao=544%5Ball%5D",
+    "arquivo": "8888_2026_11601.json",
+    "sha256": "6bb05d7575ae740d67ff2f5bb9fd74b586ef083bad31ae2e092f5b58de27da78",
+    "extraido_utc": "20261127T010233165300Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8888/periodos/202601%7C202602%7C202603%7C202604%7C202605%7C202606%7C202607%7C202608%7C202609/variaveis/11602?localidades=N1%5Ball%5D&classificacao=544%5Ball%5D",
+    "arquivo": "8888_2026_11602.json",
+    "sha256": "16c8a8966c87b6b58b7dbb53e12b13b82ad90f18f92962e74a9d6260de2f5eb6",
+    "extraido_utc": "20261127T010233165300Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8888/periodos/202601%7C202602%7C202603%7C202604%7C202605%7C202606%7C202607%7C202608%7C202609/variaveis/11603?localidades=N1%5Ball%5D&classificacao=544%5Ball%5D",
+    "arquivo": "8888_2026_11603.json",
+    "sha256": "9c7a4eb8baeacd3a00bba377208df0406454ef0d0f742641bf3348e0677013bb",
+    "extraido_utc": "20261127T010233165300Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8888/periodos/202601%7C202602%7C202603%7C202604%7C202605%7C202606%7C202607%7C202608%7C202609/variaveis/11604?localidades=N1%5Ball%5D&classificacao=544%5Ball%5D",
+    "arquivo": "8888_2026_11604.json",
+    "sha256": "ee716714dd4a5d1fcb02f22a939ad7740824f21d28ac4d27a457d3213ed044aa",
+    "extraido_utc": "20261127T010233165300Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8887/metadados",
+    "arquivo": "8887_meta.json",
+    "sha256": "3095b69b05b06cbef2fe58af45ff0ffa37216af159c3b618eebd443e8ebb05f0",
+    "extraido_utc": "20261127T010233165300Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8887/periodos",
+    "arquivo": "8887_2026_periodos.json",
+    "sha256": "53bf52afaf8d023dbd58676c786de374e766755661a7ae2af3728a30590231cd",
+    "extraido_utc": "20261127T010233165300Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8887/periodos/202601%7C202602%7C202603%7C202604%7C202605%7C202606%7C202607%7C202608%7C202609/variaveis/12606?localidades=N1%5Ball%5D&classificacao=543%5Ball%5D",
+    "arquivo": "8887_2026_12606.json",
+    "sha256": "d34a43a98b2384449d80e9b1d6bea64f3a2071db14a45c125671eb895d1fe5d7",
+    "extraido_utc": "20261127T010233165300Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8887/periodos/202601%7C202602%7C202603%7C202604%7C202605%7C202606%7C202607%7C202608%7C202609/variaveis/12607?localidades=N1%5Ball%5D&classificacao=543%5Ball%5D",
+    "arquivo": "8887_2026_12607.json",
+    "sha256": "b9026510663a650f01075761cc8351ecd5e1c791ebcc88b0f09365cf04ed8c19",
+    "extraido_utc": "20261127T010233165300Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8887/periodos/202601%7C202602%7C202603%7C202604%7C202605%7C202606%7C202607%7C202608%7C202609/variaveis/11601?localidades=N1%5Ball%5D&classificacao=543%5Ball%5D",
+    "arquivo": "8887_2026_11601.json",
+    "sha256": "70e31013bba8e7e0c97f7bf667b6060635a452f4af26c3f41e0225f840a2f403",
+    "extraido_utc": "20261127T010233165300Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8887/periodos/202601%7C202602%7C202603%7C202604%7C202605%7C202606%7C202607%7C202608%7C202609/variaveis/11602?localidades=N1%5Ball%5D&classificacao=543%5Ball%5D",
+    "arquivo": "8887_2026_11602.json",
+    "sha256": "06ca751a667b91fc701d1122e85a45a97bb080752a2e1e03f47971d1418ea444",
+    "extraido_utc": "20261127T010233165300Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8887/periodos/202601%7C202602%7C202603%7C202604%7C202605%7C202606%7C202607%7C202608%7C202609/variaveis/11603?localidades=N1%5Ball%5D&classificacao=543%5Ball%5D",
+    "arquivo": "8887_2026_11603.json",
+    "sha256": "405a05bb0d5266bc73e985972eb5731a2538000c72d13fb4b4d978f0a8925bcb",
+    "extraido_utc": "20261127T010233165300Z",
+    "divulgacao": null
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/8887/periodos/202601%7C202602%7C202603%7C202604%7C202605%7C202606%7C202607%7C202608%7C202609/variaveis/11604?localidades=N1%5Ball%5D&classificacao=543%5Ball%5D",
+    "arquivo": "8887_2026_11604.json",
+    "sha256": "5075790ed0e65e6318f9a5b41fde2237f2282f2973bb687f5e2b5e3c05c6c265",
+    "extraido_utc": "20261127T010233165300Z",
+    "divulgacao": null
+  }
+]

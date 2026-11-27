@@ -26,3 +26,6 @@ Granularidade: um indicador por período mensal, local, grupo, segmento e ediç�
 
 ## Warehouse
 `dim_tempo`, `dim_local`, `dim_segmento`, `dim_indicador`, `dim_versao` (PK id); `fato_producao` (FKs e valor), `vw_fatos` (junção analítica), `qualidade`, `reconciliacao`, `revisoes`. Dimensão segmento reúne atividade/categoria, mutuamente exclusivas por registro. As taxas são não aditivas.
+
+## Data mart complementar API (`pim_api.sqlite`)
+Mesmo esquema estrela, `grupo` = código SIDRA (8887 ou 8888), `segmento` = código e rótulo oficiais, `versao` = timestamp UTC da coleta, `arquivo` = JSON correspondente dentro do snapshot. `valor` nulo quando a API retorna `-`; valor original preservado no CSV bruto. `divulgacao` não informada. Tabelas `reconciliacao`, `revisoes`, `ausencias`, `hashes` e CSVs em `results/api/` documentam a auditoria. H1 exclui janelas incompletas e pares sem valores numéricos, não os trata como aprovados.

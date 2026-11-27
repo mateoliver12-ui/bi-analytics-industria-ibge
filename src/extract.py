@@ -17,7 +17,7 @@ def main():
     def fetch(url,name,params=None):
         r=ses.get(url,params=params,timeout=60); r.raise_for_status(); data=r.json(); path=folder/name; path.write_bytes(r.content); manifest.append({'url':r.url,'arquivo':name,'sha256':hashlib.sha256(r.content).hexdigest(),'extraido_utc':stamp,'divulgacao':a.divulgacao}); (folder/'manifesto.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2)); return data
     for table in [8888,8887]:
-        meta=fetch(f'{API}/{table}/metadados',f'{table}_meta.json'); cl=meta['classificacoes'][0]['id']; levels=meta['nivelTerritorial'].get('administrativo',[]); loc='N1[all]'; loc+='|N3[all]' if 'N3' in levels else ''; loc+='|N2[all]' if 'N2' in levels else ''
+        meta=fetch(f'{API}/{table}/metadados',f'{table}_meta.json'); cl=meta['classificacoes'][0]['id']; loc='N1[all]'  # Escopo nacional validado; recorte regional exige consulta separada.
         for year in range(a.inicio,a.fim+1):
             months='|'.join(f'{year}{m:02d}' for m in range(1,13)); available=fetch(f'{API}/{table}/periodos',f'{table}_{year}_periodos.json'); periods='|'.join(str(x['id']) for x in available if str(x['id']) in months.split('|'))
             if not periods: continue

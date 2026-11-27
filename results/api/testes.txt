@@ -1,0 +1,14 @@
+test_integridade (test_api.TestAPI.test_integridade) ... ok
+test_previsao_api (test_api.TestAPI.test_previsao_api) ... ok
+test_reconciliacao (test_api.TestAPI.test_reconciliacao) ... ok
+test_sql_api (test_api.TestAPI.test_sql_api) ... ok
+test_versoes (test_api.TestAPI.test_versoes) ... ok
+test_forecast (test_pipeline.Checks.test_forecast) ... ok
+test_h1 (test_pipeline.Checks.test_h1) ... ok
+test_h2 (test_pipeline.Checks.test_h2) ... ok
+test_sql (test_pipeline.Checks.test_sql) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.068s
+
+OK

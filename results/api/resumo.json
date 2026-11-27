@@ -1,0 +1,18 @@
+{
+  "snapshots": 2,
+  "hashes": 88,
+  "registros": 17442,
+  "validos": 15229,
+  "ausentes": 2213,
+  "duplicados": 0,
+  "h1_n": 8116,
+  "h1_ok": 8116,
+  "h2_n": 2754,
+  "h2_alterados": 0,
+  "h3_n": 20196,
+  "h3_ok": 20196,
+  "h3_kpi_ok": 5,
+  "best": "Regressão linear",
+  "holdout_mae": 1.8494688790849736,
+  "previsao_mar2027": 105.73583126652838
+}
